@@ -4,10 +4,37 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/astro/",
+          "publishedOn": "2021-05-05T21:49:23.000Z",
+          "wordCount": 840,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Astro"
+        },
+        {
+          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://infrequently.org/2021/04/progress-delayed/",
+          "publishedOn": "2021-05-05T16:51:23.000Z",
+          "wordCount": 6690,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Progress Delayed Is Progress Denied"
+        },
+        {
+          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
+          "publishedOn": "2021-05-05T14:18:28.000Z",
+          "wordCount": 3080,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Is Vendor Prefixing Dead?"
+        },
+        {
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 590,
+          "wordCount": 676,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "16px or Larger Text Prevents iOS Form Zoom"
@@ -25,7 +52,7 @@
           "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 861,
+          "wordCount": 874,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
@@ -43,7 +70,7 @@
           "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/chapter-8-css/",
           "publishedOn": "2021-05-03T21:52:08.000Z",
-          "wordCount": 6465,
+          "wordCount": 6507,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Chapter 8: CSS"
@@ -61,7 +88,7 @@
           "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/webpagetest-api/",
           "publishedOn": "2021-05-03T14:34:53.000Z",
-          "wordCount": 8905,
+          "wordCount": 8938,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "WebPageTest API"
@@ -110,33 +137,6 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Sending Large Files"
-        },
-        {
-          "description": "Raygun is an error and performance monitoring software for websites and mobile apps. In the case of websites, you install their JavaScript snippet onto your site, which takes 2 seconds, and now you&#8217;ve got monitoring in place. Why? Well now &#8230;\nThe post How to Monitor Core Web Vitals and Take Action with Raygun appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-monitor-core-web-vitals-and-take-action-with-raygun/",
-          "publishedOn": "2021-04-29T17:50:39.000Z",
-          "wordCount": 798,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "How to Monitor Core Web Vitals and Take Action with Raygun"
-        },
-        {
-          "description": "Lists—we’ve all worked with them in one form or another. I’m talking about HTML’s &#60;ol&#62; and &#60;ul&#62;. Much of the time, because we desire styling control, we turn off the list’s markers completely with list-style-type: none, and start &#8230;\nThe post List Markers and String Styles appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/list-markers-and-string-styles/",
-          "publishedOn": "2021-04-29T14:32:41.000Z",
-          "wordCount": 1091,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "List Markers and String Styles"
-        },
-        {
-          "description": "This post was written for engineering managers, but anyone is welcome to read it.\nLet’s talk for a moment about how we talk about our teams. This might not seem like something that needs a whole article dedicated to it, &#8230;\nThe post Your Team is Not &#8220;Them&#8221; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/your-team-is-not-them/",
-          "publishedOn": "2021-04-28T19:35:32.000Z",
-          "wordCount": 1922,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Your Team is Not “Them”"
         }
       ]
     },
@@ -144,10 +144,28 @@
       "href": "https://daily.dev/blog/rss.xml",
       "articles": [
         {
+          "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
+          "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
+          "publishedOn": "2021-05-05T12:30:00.000Z",
+          "wordCount": 526,
+          "sourceHref": "https://daily.dev/blog/rss.xml",
+          "sourceTitle": "daily.dev",
+          "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
+        },
+        {
+          "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
+          "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
+          "publishedOn": "2021-05-05T12:00:00.000Z",
+          "wordCount": 2086,
+          "sourceHref": "https://daily.dev/blog/rss.xml",
+          "sourceTitle": "daily.dev",
+          "title": "How to build blazing fast APIs with Fastify and TypeScript"
+        },
+        {
           "description": "This was such a busy week! So many releases and launches that you gotta check out.",
           "link": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
           "publishedOn": "2021-04-28T12:30:00.000Z",
-          "wordCount": 524,
+          "wordCount": 525,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177"
@@ -156,7 +174,7 @@
           "description": "GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.",
           "link": "https://daily.dev/blog/pagination-in-graphql",
           "publishedOn": "2021-04-26T23:00:00.000Z",
-          "wordCount": 5703,
+          "wordCount": 5705,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Step by step guide to pagination in GraphQL"
@@ -165,7 +183,7 @@
           "description": "Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
           "publishedOn": "2021-04-22T16:20:00.000Z",
-          "wordCount": 2194,
+          "wordCount": 2196,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Tailwind CSS from Zero to Hero - Up and Running"
@@ -174,7 +192,7 @@
           "description": "Check out our weekly picks that include inspiring portfolios, JavaScript fundamentals, OOP, and more",
           "link": "https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176",
           "publishedOn": "2021-04-21T12:30:00.000Z",
-          "wordCount": 552,
+          "wordCount": 553,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Context vs Redux, notebookJS, kickass GitHub profile page - Picks #176"
@@ -183,7 +201,7 @@
           "description": "The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.",
           "link": "https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie",
           "publishedOn": "2021-04-19T12:00:00.000Z",
-          "wordCount": 1044,
+          "wordCount": 1046,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Unit Testing Fraud: Why Code Coverage is a Lie"
@@ -192,7 +210,7 @@
           "description": "Building API Gateway for gRPC microservices. Rethinking external APIs.",
           "link": "https://daily.dev/blog/api-gateway-for-grpc-microservices",
           "publishedOn": "2021-04-15T12:00:00.000Z",
-          "wordCount": 1930,
+          "wordCount": 1931,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Getting practical in building an API Gateway for gRPC microservices"
@@ -201,7 +219,7 @@
           "description": "Announcing a brand new ambassador program.",
           "link": "https://daily.dev/blog/we-have-some-epic-prizes-for-you",
           "publishedOn": "2021-04-14T14:00:00.000Z",
-          "wordCount": 463,
+          "wordCount": 464,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "We have some EPIC PRIZES for you 🤩"
@@ -210,7 +228,7 @@
           "description": "Documentation as code, JavaScript tips & tricks, improve your coding skills and more on this week's picks",
           "link": "https://daily.dev/blog/building-micro-frontends-improve-your-programming-skills-and-a-free-apple-watch-picks-175",
           "publishedOn": "2021-04-14T12:30:00.000Z",
-          "wordCount": 530,
+          "wordCount": 531,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Building micro-frontends, improve your programming skills, and a free Apple Watch - Picks #175"
@@ -219,7 +237,7 @@
           "description": "It is important that the Web be accessible to everyone in order to provide equal access and equal opportunity to people with disabilities.",
           "link": "https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist",
           "publishedOn": "2021-04-13T12:00:00.000Z",
-          "wordCount": 2627,
+          "wordCount": 2628,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "10 Most Common Accessibility Mistakes: An Actionable Checklist"
@@ -228,7 +246,7 @@
           "description": "Improving as a developer is not only about problem-solving skills and coding. It's a long-term journey with many ways you can choose to get better.",
           "link": "https://daily.dev/blog/how-to-improve-your-programming-skills-in-2021-the-full-guide",
           "publishedOn": "2021-04-12T12:00:00.000Z",
-          "wordCount": 4513,
+          "wordCount": 4514,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "How to improve your programming skills in 2021 [The Full Guide]"
@@ -237,7 +255,7 @@
           "description": "In this article, we would be learning about Styled system; a utility first styling library that works in tandem with css-in-js libraries such as Styled-com",
           "link": "https://daily.dev/blog/building-react-micro-components-with-styled-system",
           "publishedOn": "2021-04-08T00:00:00.000Z",
-          "wordCount": 1854,
+          "wordCount": 1855,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Building React micro-components with styled system"
@@ -246,22 +264,13 @@
           "description": "Perfect score portfolio, Flutter In 5 days, WWDC21, and much more",
           "link": "https://daily.dev/blog/perfect-score-portfolio-flutter-in-5-days-wwdc21-picks-174",
           "publishedOn": "2021-04-07T12:30:00.000Z",
-          "wordCount": 527,
+          "wordCount": 528,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Perfect Score Portfolio, Flutter In 5 Days, WWDC21 - Picks #174"
-        },
-        {
-          "description": "Tailwind CSS provides an API for other developers to write plugins that will help them to build beautiful UIs. In this post, I will show you how",
-          "link": "https://daily.dev/blog/creating-a-custom-tailwind-css-color-plugin",
-          "publishedOn": "2021-04-06T12:30:00.000Z",
-          "wordCount": 1022,
-          "sourceHref": "https://daily.dev/blog/rss.xml",
-          "sourceTitle": "daily.dev",
-          "title": "Creating a custom Tailwind CSS color plugin"
         }
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
