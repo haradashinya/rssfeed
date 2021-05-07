@@ -4,10 +4,37 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://aws.amazon.com/route53/",
+          "publishedOn": "2021-05-06T20:03:26.000Z",
+          "wordCount": 1362,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
+        },
+        {
+          "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
+          "publishedOn": "2021-05-06T19:57:40.000Z",
+          "wordCount": 2518,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "What Google’s New Page Experience Update Means for Images on Your Website"
+        },
+        {
+          "description": "There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;\nThe post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
+          "publishedOn": "2021-05-06T14:28:53.000Z",
+          "wordCount": 1025,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Custom State Pseudo-Classes in Chrome"
+        },
+        {
           "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 840,
+          "wordCount": 915,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Astro"
@@ -16,7 +43,7 @@
           "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://infrequently.org/2021/04/progress-delayed/",
           "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6690,
+          "wordCount": 6686,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Progress Delayed Is Progress Denied"
@@ -25,7 +52,7 @@
           "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
           "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3080,
+          "wordCount": 3101,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Is Vendor Prefixing Dead?"
@@ -34,7 +61,7 @@
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 676,
+          "wordCount": 630,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "16px or Larger Text Prevents iOS Form Zoom"
@@ -52,7 +79,7 @@
           "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 874,
+          "wordCount": 970,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
@@ -88,7 +115,7 @@
           "description": "I&#8217;m willing to bet you know WebPageTest. It is the premier tool in the toolbox of web performance people. Maybe you didn&#8217;t know that WebPageTest was a side project of one fella, Patrick Meenan, for most of its lifetime, &#8230;\nThe post WebPageTest API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/webpagetest-api/",
           "publishedOn": "2021-05-03T14:34:53.000Z",
-          "wordCount": 8938,
+          "wordCount": 8954,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "WebPageTest API"
@@ -110,39 +137,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Web Languages as Compile Targets"
-        },
-        {
-          "description": "Jenny B Kowalski has been posting a-letter-a-day on Instagram exploring multi-axis variable/responsive letterforms. They are very clever in that one of the axes controls an uppercase-to-lowercase conversion, literally morphing the shape of the letters from an uppercase version to a &#8230;\nThe post Jenny B Kowalski&#8217;s A-Z (and a-z) as Variable Letterforms appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jenny-b-kowalskis-a-z-and-a-z-as-variable-letterforms/",
-          "publishedOn": "2021-04-30T16:02:53.000Z",
-          "wordCount": 422,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Jenny B Kowalski’s A-Z (and a-z) as Variable Letterforms"
-        },
-        {
-          "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
-          "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 2196,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "You Can Label a JavaScript `if` Statement"
-        },
-        {
-          "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sending-large-files/",
-          "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1669,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Sending Large Files"
         }
       ]
     },
     {
       "href": "https://daily.dev/blog/rss.xml",
       "articles": [
+        {
+          "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
+          "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
+          "publishedOn": "2021-05-06T12:00:00.000Z",
+          "wordCount": 3328,
+          "sourceHref": "https://daily.dev/blog/rss.xml",
+          "sourceTitle": "daily.dev",
+          "title": "Everything you need to know about GraphQL Authentication and Authorization"
+        },
         {
           "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
           "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
@@ -156,7 +165,7 @@
           "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
           "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
           "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2086,
+          "wordCount": 2087,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "How to build blazing fast APIs with Fastify and TypeScript"
@@ -174,7 +183,7 @@
           "description": "GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.",
           "link": "https://daily.dev/blog/pagination-in-graphql",
           "publishedOn": "2021-04-26T23:00:00.000Z",
-          "wordCount": 5705,
+          "wordCount": 5706,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Step by step guide to pagination in GraphQL"
@@ -183,7 +192,7 @@
           "description": "Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
           "publishedOn": "2021-04-22T16:20:00.000Z",
-          "wordCount": 2196,
+          "wordCount": 2197,
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Tailwind CSS from Zero to Hero - Up and Running"
@@ -259,15 +268,6 @@
           "sourceHref": "https://daily.dev/blog/rss.xml",
           "sourceTitle": "daily.dev",
           "title": "Building React micro-components with styled system"
-        },
-        {
-          "description": "Perfect score portfolio, Flutter In 5 days, WWDC21, and much more",
-          "link": "https://daily.dev/blog/perfect-score-portfolio-flutter-in-5-days-wwdc21-picks-174",
-          "publishedOn": "2021-04-07T12:30:00.000Z",
-          "wordCount": 528,
-          "sourceHref": "https://daily.dev/blog/rss.xml",
-          "sourceTitle": "daily.dev",
-          "title": "Perfect Score Portfolio, Flutter In 5 Days, WWDC21 - Picks #174"
         }
       ]
     }
