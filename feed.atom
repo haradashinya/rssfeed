@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-05-09T00:41:19.385Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-09T00:41:19.385Z</updated>
+    <generator>osmosfeed 1.5.0</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
+        <id>https://css-tricks.com/?p=339781</id>
+        <link href="https://css-tricks.com/is-css-a-programming-language/"/>
+        <updated>2021-05-07T13:56:17.000Z</updated>
+        <summary type="html"><![CDATA[I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;
+The post Is CSS a Programming Language? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Typography]]></title>
+        <id>https://css-tricks.com/?p=339574</id>
+        <link href="https://css-tricks.com/links-on-typography/"/>
+        <updated>2021-05-07T13:54:01.000Z</updated>
+        <summary type="html"><![CDATA[These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.
+The post Links on Typography appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I Email…]]></title>
+        <id>https://css-tricks.com/?p=339822</id>
+        <link href="https://www.caniemail.com/"/>
+        <updated>2021-05-07T02:38:56.000Z</updated>
+        <summary type="html"><![CDATA[While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;
+The post Can I Email&#8230; appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apparently, You Can Use Route53 as a Blazingly Fast Database]]></title>
+        <id>https://css-tricks.com/?p=340015</id>
+        <link href="https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005"/>
+        <updated>2021-05-06T20:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:
+When you think about it, DNS configuration is actually a 
+&#8230;
+The post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Google’s New Page Experience Update Means for Images on Your Website]]></title>
+        <id>https://css-tricks.com/?p=339936</id>
+        <link href="https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/"/>
+        <updated>2021-05-06T19:57:40.000Z</updated>
+        <summary type="html"><![CDATA[It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;
+The post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom State Pseudo-Classes in Chrome]]></title>
+        <id>https://css-tricks.com/?p=339586</id>
+        <link href="https://css-tricks.com/custom-state-pseudo-classes-in-chrome/"/>
+        <updated>2021-05-06T14:28:53.000Z</updated>
+        <summary type="html"><![CDATA[There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;
+The post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything you need to know about GraphQL Authentication and Authorization]]></title>
+        <id>https://daily.dev/blog/authentication-and-authorization-in-graphql</id>
+        <link href="https://daily.dev/blog/authentication-and-authorization-in-graphql"/>
+        <updated>2021-05-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro]]></title>
+        <id>https://css-tricks.com/?p=339563</id>
+        <link href="https://css-tricks.com/astro/"/>
+        <updated>2021-05-05T21:49:23.000Z</updated>
+        <summary type="html"><![CDATA[You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. 
+I gotta admit: it looks awesome. I&#8217;m bullish &#8230;
+The post Astro appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
+        <id>https://css-tricks.com/?p=339954</id>
+        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
+        <updated>2021-05-05T16:51:23.000Z</updated>
+        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
+The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Vendor Prefixing Dead?]]></title>
+        <id>https://css-tricks.com/?p=339518</id>
+        <link href="https://css-tricks.com/is-vendor-prefixing-dead/"/>
+        <updated>2021-05-05T14:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!
+It‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;
+The post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Rob O'Leary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Practices, MERN Stack, Working With TypeScript - Picks 178]]></title>
+        <id>https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178</id>
+        <link href="https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178"/>
+        <updated>2021-05-05T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build blazing fast APIs with Fastify and TypeScript]]></title>
+        <id>https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript</id>
+        <link href="https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript"/>
+        <updated>2021-05-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16px or Larger Text Prevents iOS Form Zoom]]></title>
+        <id>https://css-tricks.com/?p=339455</id>
+        <link href="https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/"/>
+        <updated>2021-05-04T21:16:04.000Z</updated>
+        <summary type="html"><![CDATA[This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;
+The post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders]]></title>
+        <id>https://css-tricks.com/?p=339867</id>
+        <link href="https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/"/>
+        <updated>2021-05-04T21:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;
+The post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s use (X, X, X, X) for talking about specificity]]></title>
+        <id>https://css-tricks.com/?p=339449</id>
+        <link href="https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/"/>
+        <updated>2021-05-04T14:19:55.000Z</updated>
+        <summary type="html"><![CDATA[I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;
+The post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Colorful, Smart Shadows]]></title>
+        <id>https://css-tricks.com/?p=339742</id>
+        <link href="https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm"/>
+        <updated>2021-05-04T14:19:48.000Z</updated>
+        <summary type="html"><![CDATA[A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;
+The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 8: CSS]]></title>
+        <id>https://css-tricks.com/?p=339419</id>
+        <link href="https://css-tricks.com/chapter-8-css/"/>
+        <updated>2021-05-03T21:52:08.000Z</updated>
+        <summary type="html"><![CDATA[In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;
+The post Chapter 8: CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jay Hoffmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swipey Image Grids]]></title>
+        <id>https://css-tricks.com/?p=339384</id>
+        <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
+        <updated>2021-05-03T14:35:07.000Z</updated>
+        <summary type="html"><![CDATA[I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;
+The post Swipey Image Grids appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177]]></title>
+        <id>https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177</id>
+        <link href="https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177"/>
+        <updated>2021-04-28T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This was such a busy week! So many releases and launches that you gotta check out.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step by step guide to pagination in GraphQL]]></title>
+        <id>https://daily.dev/blog/pagination-in-graphql</id>
+        <link href="https://daily.dev/blog/pagination-in-graphql"/>
+        <updated>2021-04-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS from Zero to Hero - Up and Running]]></title>
+        <id>https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running</id>
+        <link href="https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running"/>
+        <updated>2021-04-22T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context vs Redux, notebookJS, kickass GitHub profile page - Picks #176]]></title>
+        <id>https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176</id>
+        <link href="https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176"/>
+        <updated>2021-04-21T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out our weekly picks that include inspiring portfolios, JavaScript fundamentals, OOP, and more]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit Testing Fraud: Why Code Coverage is a Lie]]></title>
+        <id>https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie</id>
+        <link href="https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie"/>
+        <updated>2021-04-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting practical in building an API Gateway for gRPC microservices]]></title>
+        <id>https://daily.dev/blog/api-gateway-for-grpc-microservices</id>
+        <link href="https://daily.dev/blog/api-gateway-for-grpc-microservices"/>
+        <updated>2021-04-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building API Gateway for gRPC microservices. Rethinking external APIs.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We have some EPIC PRIZES for you 🤩]]></title>
+        <id>https://daily.dev/blog/we-have-some-epic-prizes-for-you</id>
+        <link href="https://daily.dev/blog/we-have-some-epic-prizes-for-you"/>
+        <updated>2021-04-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Announcing a brand new ambassador program.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building micro-frontends, improve your programming skills, and a free Apple Watch - Picks #175]]></title>
+        <id>https://daily.dev/blog/building-micro-frontends-improve-your-programming-skills-and-a-free-apple-watch-picks-175</id>
+        <link href="https://daily.dev/blog/building-micro-frontends-improve-your-programming-skills-and-a-free-apple-watch-picks-175"/>
+        <updated>2021-04-14T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Documentation as code, JavaScript tips & tricks, improve your coding skills and more on this week's picks]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Most Common Accessibility Mistakes: An Actionable Checklist]]></title>
+        <id>https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist</id>
+        <link href="https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist"/>
+        <updated>2021-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is important that the Web be accessible to everyone in order to provide equal access and equal opportunity to people with disabilities.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to improve your programming skills in 2021 [The Full Guide]]]></title>
+        <id>https://daily.dev/blog/how-to-improve-your-programming-skills-in-2021-the-full-guide</id>
+        <link href="https://daily.dev/blog/how-to-improve-your-programming-skills-in-2021-the-full-guide"/>
+        <updated>2021-04-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Improving as a developer is not only about problem-solving skills and coding. It's a long-term journey with many ways you can choose to get better.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+</feed>
