@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T00:39:10.396Z</id>
+    <id>urn:2021-05-11T00:39:08.245Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T00:39:10.396Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T00:39:08.245Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Topframe]]></title>
+        <id>https://css-tricks.com/?p=340020</id>
+        <link href="https://css-tricks.com/topframe/"/>
+        <updated>2021-05-10T21:14:15.000Z</updated>
+        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
+&#8230;
+The post Topframe appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
+        <id>https://css-tricks.com/?p=340208</id>
+        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
+        <updated>2021-05-10T21:13:23.000Z</updated>
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
+        <id>https://css-tricks.com/?p=339203</id>
+        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
+        <updated>2021-05-10T14:13:12.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
         <id>https://css-tricks.com/?p=339781</id>
@@ -178,42 +216,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-04T14:19:55.000Z</updated>
         <summary type="html"><![CDATA[I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;
 The post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Colorful, Smart Shadows]]></title>
-        <id>https://css-tricks.com/?p=339742</id>
-        <link href="https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm"/>
-        <updated>2021-05-04T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;
-The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 8: CSS]]></title>
-        <id>https://css-tricks.com/?p=339419</id>
-        <link href="https://css-tricks.com/chapter-8-css/"/>
-        <updated>2021-05-03T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;
-The post Chapter 8: CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swipey Image Grids]]></title>
-        <id>https://css-tricks.com/?p=339384</id>
-        <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
-        <updated>2021-05-03T14:35:07.000Z</updated>
-        <summary type="html"><![CDATA[I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;
-The post Swipey Image Grids appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
