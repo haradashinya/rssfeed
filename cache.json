@@ -6,12 +6,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=339960",
+          "author": "Sandrina Pereira",
+          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
+          "publishedOn": "2021-05-12T14:31:07.000Z",
+          "wordCount": 2583,
+          "title": "Making Disabled Buttons More Inclusive"
+        },
+        {
           "id": "https://css-tricks.com/?p=340359",
           "author": "Chris Coyier",
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 498,
+          "wordCount": 441,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -29,7 +38,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1266,
+          "wordCount": 1419,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -38,7 +47,7 @@
           "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 844,
+          "wordCount": 1369,
           "title": "Distributed Persistent Rendering (DPR)"
         },
         {
@@ -47,7 +56,7 @@
           "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you \n&#8230;\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/topframe/",
           "publishedOn": "2021-05-10T21:14:15.000Z",
-          "wordCount": 674,
+          "wordCount": 727,
           "title": "Topframe"
         },
         {
@@ -56,7 +65,7 @@
           "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2951,
+          "wordCount": 2954,
           "title": "Migrating from Parcel to Snowpack"
         },
         {
@@ -74,7 +83,7 @@
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 3389,
+          "wordCount": 3601,
           "title": "Is CSS a Programming Language?"
         },
         {
@@ -101,7 +110,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1530,
+          "wordCount": 1523,
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
@@ -130,15 +139,6 @@
           "publishedOn": "2021-05-05T21:49:23.000Z",
           "wordCount": 1029,
           "title": "Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339954",
-          "author": "Chris Coyier",
-          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://infrequently.org/2021/04/progress-delayed/",
-          "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6686,
-          "title": "Progress Delayed Is Progress Denied"
         }
       ]
     },
@@ -148,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
+          "author": null,
+          "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
+          "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
+          "publishedOn": "2021-05-12T12:30:00.000Z",
+          "wordCount": 565,
+          "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
+        },
+        {
           "id": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "author": null,
           "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
           "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "publishedOn": "2021-05-06T12:00:00.000Z",
-          "wordCount": 3328,
+          "wordCount": 3393,
           "title": "Everything you need to know about GraphQL Authentication and Authorization"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
           "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
           "publishedOn": "2021-05-05T12:30:00.000Z",
-          "wordCount": 526,
+          "wordCount": 593,
           "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
         },
         {
@@ -171,7 +180,7 @@
           "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
           "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
           "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2087,
+          "wordCount": 2148,
           "title": "How to build blazing fast APIs with Fastify and TypeScript"
         },
         {
@@ -180,7 +189,7 @@
           "description": "This was such a busy week! So many releases and launches that you gotta check out.",
           "link": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
           "publishedOn": "2021-04-28T12:30:00.000Z",
-          "wordCount": 525,
+          "wordCount": 592,
           "title": "Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177"
         },
         {
@@ -189,7 +198,7 @@
           "description": "GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.",
           "link": "https://daily.dev/blog/pagination-in-graphql",
           "publishedOn": "2021-04-26T23:00:00.000Z",
-          "wordCount": 5706,
+          "wordCount": 5765,
           "title": "Step by step guide to pagination in GraphQL"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
           "publishedOn": "2021-04-22T16:20:00.000Z",
-          "wordCount": 2197,
+          "wordCount": 2265,
           "title": "Tailwind CSS from Zero to Hero - Up and Running"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Check out our weekly picks that include inspiring portfolios, JavaScript fundamentals, OOP, and more",
           "link": "https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176",
           "publishedOn": "2021-04-21T12:30:00.000Z",
-          "wordCount": 553,
+          "wordCount": 620,
           "title": "Context vs Redux, notebookJS, kickass GitHub profile page - Picks #176"
         },
         {
@@ -216,7 +225,7 @@
           "description": "The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.",
           "link": "https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie",
           "publishedOn": "2021-04-19T12:00:00.000Z",
-          "wordCount": 1046,
+          "wordCount": 1113,
           "title": "Unit Testing Fraud: Why Code Coverage is a Lie"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Building API Gateway for gRPC microservices. Rethinking external APIs.",
           "link": "https://daily.dev/blog/api-gateway-for-grpc-microservices",
           "publishedOn": "2021-04-15T12:00:00.000Z",
-          "wordCount": 1931,
+          "wordCount": 1998,
           "title": "Getting practical in building an API Gateway for gRPC microservices"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Announcing a brand new ambassador program.",
           "link": "https://daily.dev/blog/we-have-some-epic-prizes-for-you",
           "publishedOn": "2021-04-14T14:00:00.000Z",
-          "wordCount": 464,
+          "wordCount": 531,
           "title": "We have some EPIC PRIZES for you 🤩"
         },
         {
@@ -243,17 +252,8 @@
           "description": "Documentation as code, JavaScript tips & tricks, improve your coding skills and more on this week's picks",
           "link": "https://daily.dev/blog/building-micro-frontends-improve-your-programming-skills-and-a-free-apple-watch-picks-175",
           "publishedOn": "2021-04-14T12:30:00.000Z",
-          "wordCount": 531,
+          "wordCount": 598,
           "title": "Building micro-frontends, improve your programming skills, and a free Apple Watch - Picks #175"
-        },
-        {
-          "id": "https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist",
-          "author": null,
-          "description": "It is important that the Web be accessible to everyone in order to provide equal access and equal opportunity to people with disabilities.",
-          "link": "https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist",
-          "publishedOn": "2021-04-13T12:00:00.000Z",
-          "wordCount": 2628,
-          "title": "10 Most Common Accessibility Mistakes: An Actionable Checklist"
         }
       ]
     }

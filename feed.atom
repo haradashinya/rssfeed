@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-12T00:40:34.434Z</id>
+    <id>urn:2021-05-13T00:48:14.061Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T00:40:34.434Z</updated>
+    <updated>2021-05-13T00:48:14.061Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
+There are lots of &#8230;
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179]]></title>
+        <id>https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179</id>
+        <link href="https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179"/>
+        <updated>2021-05-12T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
         <id>https://css-tricks.com/?p=340359</id>
@@ -190,18 +213,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
-        <id>https://css-tricks.com/?p=339954</id>
-        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
-        <updated>2021-05-05T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
-The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coding Practices, MERN Stack, Working With TypeScript - Picks 178]]></title>
         <id>https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178</id>
         <link href="https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178"/>
@@ -297,16 +308,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/building-micro-frontends-improve-your-programming-skills-and-a-free-apple-watch-picks-175"/>
         <updated>2021-04-14T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Documentation as code, JavaScript tips & tricks, improve your coding skills and more on this week's picks]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Most Common Accessibility Mistakes: An Actionable Checklist]]></title>
-        <id>https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist</id>
-        <link href="https://daily.dev/blog/10-most-common-accessibility-mistakes-an-actionable-checklist"/>
-        <updated>2021-04-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is important that the Web be accessible to everyone in order to provide equal access and equal opportunity to people with disabilities.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
