@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 1881,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 749,
+          "title": "HTML Boilerplates"
+        },
+        {
           "id": "https://css-tricks.com/?p=340490",
           "author": "Chris Coyier",
           "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -20,7 +47,7 @@
           "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
           "publishedOn": "2021-05-13T22:55:35.000Z",
-          "wordCount": 557,
+          "wordCount": 605,
           "title": "2021 Design Systems (Survey/Courses)"
         },
         {
@@ -29,7 +56,7 @@
           "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
           "publishedOn": "2021-05-13T14:24:42.000Z",
-          "wordCount": 2717,
+          "wordCount": 2745,
           "title": "Advanced CSS Animation Using cubic-bezier()"
         },
         {
@@ -38,7 +65,7 @@
           "description": "Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
           "publishedOn": "2021-05-13T14:24:35.000Z",
-          "wordCount": 925,
+          "wordCount": 986,
           "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
         },
         {
@@ -47,7 +74,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2700,
+          "wordCount": 2771,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -83,7 +110,7 @@
           "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
           "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1415,
+          "wordCount": 1446,
           "title": "Distributed Persistent Rendering (DPR)"
         },
         {
@@ -101,7 +128,7 @@
           "description": "I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2950,
+          "wordCount": 2953,
           "title": "Migrating from Parcel to Snowpack"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-05-10T14:13:12.000Z",
           "wordCount": 3158,
           "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339781",
-          "author": "Chris Coyier",
-          "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/is-css-a-programming-language/",
-          "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 3693,
-          "title": "Is CSS a Programming Language?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339574",
-          "author": "Chris Coyier",
-          "description": "These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-typography/",
-          "publishedOn": "2021-05-07T13:54:01.000Z",
-          "wordCount": 952,
-          "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339822",
-          "author": "Chris Coyier",
-          "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.caniemail.com/",
-          "publishedOn": "2021-05-07T02:38:56.000Z",
-          "wordCount": 326,
-          "title": "Can I Email…"
         }
       ]
     },
@@ -148,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
+          "author": null,
+          "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
+          "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
+          "publishedOn": "2021-05-14T13:00:00.000Z",
+          "wordCount": 2069,
+          "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
+        },
+        {
           "id": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "author": null,
           "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
           "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2118,
+          "wordCount": 2144,
           "title": "Building an image gallery with Fastify and React"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.",
           "link": "https://daily.dev/blog/how-to-use-git-bisect-for-debugging",
           "publishedOn": "2021-05-13T07:25:00.000Z",
-          "wordCount": 2112,
+          "wordCount": 2138,
           "title": "How to Use Git Bisect for Debugging"
         },
         {
@@ -171,7 +180,7 @@
           "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
           "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
           "publishedOn": "2021-05-12T12:30:00.000Z",
-          "wordCount": 584,
+          "wordCount": 606,
           "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
         },
         {
@@ -180,7 +189,7 @@
           "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
           "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "publishedOn": "2021-05-06T12:00:00.000Z",
-          "wordCount": 3414,
+          "wordCount": 3436,
           "title": "Everything you need to know about GraphQL Authentication and Authorization"
         },
         {
@@ -189,7 +198,7 @@
           "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
           "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
           "publishedOn": "2021-05-05T12:30:00.000Z",
-          "wordCount": 612,
+          "wordCount": 634,
           "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
           "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
           "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2169,
+          "wordCount": 2195,
           "title": "How to build blazing fast APIs with Fastify and TypeScript"
         },
         {
@@ -207,7 +216,7 @@
           "description": "This was such a busy week! So many releases and launches that you gotta check out.",
           "link": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
           "publishedOn": "2021-04-28T12:30:00.000Z",
-          "wordCount": 611,
+          "wordCount": 633,
           "title": "Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177"
         },
         {
@@ -216,7 +225,7 @@
           "description": "GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.",
           "link": "https://daily.dev/blog/pagination-in-graphql",
           "publishedOn": "2021-04-26T23:00:00.000Z",
-          "wordCount": 5790,
+          "wordCount": 5812,
           "title": "Step by step guide to pagination in GraphQL"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
           "publishedOn": "2021-04-22T16:20:00.000Z",
-          "wordCount": 2284,
+          "wordCount": 2306,
           "title": "Tailwind CSS from Zero to Hero - Up and Running"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Check out our weekly picks that include inspiring portfolios, JavaScript fundamentals, OOP, and more",
           "link": "https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176",
           "publishedOn": "2021-04-21T12:30:00.000Z",
-          "wordCount": 639,
+          "wordCount": 661,
           "title": "Context vs Redux, notebookJS, kickass GitHub profile page - Picks #176"
         },
         {
@@ -243,26 +252,8 @@
           "description": "The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.",
           "link": "https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie",
           "publishedOn": "2021-04-19T12:00:00.000Z",
-          "wordCount": 1132,
+          "wordCount": 1154,
           "title": "Unit Testing Fraud: Why Code Coverage is a Lie"
-        },
-        {
-          "id": "https://daily.dev/blog/api-gateway-for-grpc-microservices",
-          "author": null,
-          "description": "Building API Gateway for gRPC microservices. Rethinking external APIs.",
-          "link": "https://daily.dev/blog/api-gateway-for-grpc-microservices",
-          "publishedOn": "2021-04-15T12:00:00.000Z",
-          "wordCount": 2017,
-          "title": "Getting practical in building an API Gateway for gRPC microservices"
-        },
-        {
-          "id": "https://daily.dev/blog/we-have-some-epic-prizes-for-you",
-          "author": null,
-          "description": "Announcing a brand new ambassador program.",
-          "link": "https://daily.dev/blog/we-have-some-epic-prizes-for-you",
-          "publishedOn": "2021-04-14T14:00:00.000Z",
-          "wordCount": 550,
-          "title": "We have some EPIC PRIZES for you 🤩"
         }
       ]
     }

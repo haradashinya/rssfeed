@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-14T00:50:06.536Z</id>
+    <id>urn:2021-05-15T00:46:59.423Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T00:50:06.536Z</updated>
+    <updated>2021-05-15T00:46:59.423Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
+        <id>https://css-tricks.com/?p=340136</id>
+        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
+        <updated>2021-05-14T20:34:49.000Z</updated>
+        <summary type="html"><![CDATA[I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;
+The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/?p=340343</id>
+        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
+        <updated>2021-05-14T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
+$variable: 'test' !default;
+To the Sass compiler, this line &#8230;
+The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Boilerplates]]></title>
+        <id>https://css-tricks.com/?p=340403</id>
+        <link href="https://css-tricks.com/html-boilerplates/"/>
+        <updated>2021-05-14T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;
+The post HTML Boilerplates appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS from Zero to Hero - The Utility-First Workflow]]></title>
+        <id>https://daily.dev/blog/tailwind-css-the-utility-first-workflow</id>
+        <link href="https://daily.dev/blog/tailwind-css-the-utility-first-workflow"/>
+        <updated>2021-05-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
         <id>https://css-tricks.com/?p=340490</id>
@@ -186,42 +234,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
-        <id>https://css-tricks.com/?p=339781</id>
-        <link href="https://css-tricks.com/is-css-a-programming-language/"/>
-        <updated>2021-05-07T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;
-The post Is CSS a Programming Language? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=339574</id>
-        <link href="https://css-tricks.com/links-on-typography/"/>
-        <updated>2021-05-07T13:54:01.000Z</updated>
-        <summary type="html"><![CDATA[These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.
-The post Links on Typography appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I Email…]]></title>
-        <id>https://css-tricks.com/?p=339822</id>
-        <link href="https://www.caniemail.com/"/>
-        <updated>2021-05-07T02:38:56.000Z</updated>
-        <summary type="html"><![CDATA[While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;
-The post Can I Email&#8230; appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Everything you need to know about GraphQL Authentication and Authorization]]></title>
         <id>https://daily.dev/blog/authentication-and-authorization-in-graphql</id>
         <link href="https://daily.dev/blog/authentication-and-authorization-in-graphql"/>
@@ -297,26 +309,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie"/>
         <updated>2021-04-19T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting practical in building an API Gateway for gRPC microservices]]></title>
-        <id>https://daily.dev/blog/api-gateway-for-grpc-microservices</id>
-        <link href="https://daily.dev/blog/api-gateway-for-grpc-microservices"/>
-        <updated>2021-04-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Building API Gateway for gRPC microservices. Rethinking external APIs.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We have some EPIC PRIZES for you 🤩]]></title>
-        <id>https://daily.dev/blog/we-have-some-epic-prizes-for-you</id>
-        <link href="https://daily.dev/blog/we-have-some-epic-prizes-for-you"/>
-        <updated>2021-04-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Announcing a brand new ambassador program.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
