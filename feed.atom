@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-17T00:47:16.249Z</id>
+    <id>urn:2021-05-18T00:51:34.839Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T00:47:16.249Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T00:51:34.839Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=340716</id>
+        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
+        <updated>2021-05-17T22:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
+The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
+…
+The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
+        <id>https://css-tricks.com/?p=339522</id>
+        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
+        <updated>2021-05-17T14:27:22.000Z</updated>
+        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
+The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ashley Kolodziej</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euismod]]></title>
+        <id>https://css-tricks.com/?p=340594</id>
+        <link href="https://www.euismod.dev/"/>
+        <updated>2021-05-17T14:27:13.000Z</updated>
+        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
+The post Euismod appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GraphQL Subscriptions Work: Tips, Best Practices and Examples.]]></title>
+        <id>https://daily.dev/blog/subscriptions-in-graphql</id>
+        <link href="https://daily.dev/blog/subscriptions-in-graphql"/>
+        <updated>2021-05-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
         <id>https://css-tricks.com/?p=340136</id>
@@ -193,44 +241,6 @@ The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topframe]]></title>
-        <id>https://css-tricks.com/?p=340020</id>
-        <link href="https://css-tricks.com/topframe/"/>
-        <updated>2021-05-10T21:14:15.000Z</updated>
-        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
-Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you 
-…
-The post Topframe appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
-        <id>https://css-tricks.com/?p=340208</id>
-        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
-        <updated>2021-05-10T21:13:23.000Z</updated>
-        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …
-The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
-        <id>https://css-tricks.com/?p=339203</id>
-        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
-        <updated>2021-05-10T14:13:12.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …
-The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
         </author>
     </entry>
     <entry>

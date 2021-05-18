@@ -6,12 +6,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340716",
+          "author": "Chris Coyier",
+          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-05-17T22:38:06.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `img` Element And Core Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339522",
+          "author": "Ashley Kolodziej",
+          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
+          "publishedOn": "2021-05-17T14:27:22.000Z",
+          "wordCount": 1356,
+          "title": "A Love Letter to HTML & CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340594",
+          "author": "Chris Coyier",
+          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.euismod.dev/",
+          "publishedOn": "2021-05-17T14:27:13.000Z",
+          "wordCount": 3,
+          "title": "Euismod"
+        },
+        {
           "id": "https://css-tricks.com/?p=340136",
           "author": "Chris Coyier",
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2173,
+          "wordCount": 2273,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -74,7 +101,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2771,
+          "wordCount": 2886,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -101,7 +128,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1441,
+          "wordCount": 1498,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-05-11T14:33:10.000Z",
           "wordCount": 1446,
           "title": "Distributed Persistent Rendering (DPR)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340020",
-          "author": "Chris Coyier",
-          "description": "This is extremely fun. Jeff Lindsay has created Topframe, and writes:\nAnybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you \n…\nThe post Topframe appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/topframe/",
-          "publishedOn": "2021-05-10T21:14:15.000Z",
-          "wordCount": 727,
-          "title": "Topframe"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340208",
-          "author": "Chris Coyier",
-          "description": "I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
-          "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2933,
-          "title": "Migrating from Parcel to Snowpack"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339203",
-          "author": "Ana Tudor",
-          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
-          "publishedOn": "2021-05-10T14:13:12.000Z",
-          "wordCount": 3158,
-          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://daily.dev/blog/rss.xml",
       "siteUrl": "https://daily.dev",
       "articles": [
+        {
+          "id": "https://daily.dev/blog/subscriptions-in-graphql",
+          "author": null,
+          "description": "Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.",
+          "link": "https://daily.dev/blog/subscriptions-in-graphql",
+          "publishedOn": "2021-05-17T12:00:00.000Z",
+          "wordCount": 2822,
+          "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
+        },
         {
           "id": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
           "author": null,
@@ -258,5 +267,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.1"
+  "cliVersion": "1.7.2"
 }
