@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340613",
+          "author": "Chris Coyier",
+          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
+          "publishedOn": "2021-05-18T19:14:53.000Z",
+          "wordCount": 973,
+          "title": "Pinned Audio WordPress Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340420",
+          "author": "Silvia O'Dwyer",
+          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
+          "publishedOn": "2021-05-18T14:31:25.000Z",
+          "wordCount": 2100,
+          "title": "How to Create Neon Text With CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=340716",
           "author": "Chris Coyier",
           "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -20,7 +38,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 1356,
+          "wordCount": 2174,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -38,7 +56,7 @@
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2273,
+          "wordCount": 2298,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -101,7 +119,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
           "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2886,
+          "wordCount": 2994,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -121,24 +139,6 @@
           "publishedOn": "2021-05-11T21:04:32.000Z",
           "wordCount": 1416,
           "title": "I could build this during the weekend"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339138",
-          "author": "Una Kravets",
-          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/next-gen-css-container/",
-          "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1498,
-          "title": "Next Gen CSS: @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340106",
-          "author": "Chris Coyier",
-          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
-          "publishedOn": "2021-05-11T14:33:10.000Z",
-          "wordCount": 1446,
-          "title": "Distributed Persistent Rendering (DPR)"
         }
       ]
     },
@@ -148,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
+          "author": null,
+          "description": "Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.",
+          "link": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
+          "publishedOn": "2021-05-18T00:30:00.000Z",
+          "wordCount": 1953,
+          "title": "Building modern APIs with Fastify, Graphql, and MongoDB"
+        },
+        {
           "id": "https://daily.dev/blog/subscriptions-in-graphql",
           "author": null,
           "description": "Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.",
           "link": "https://daily.dev/blog/subscriptions-in-graphql",
           "publishedOn": "2021-05-17T12:00:00.000Z",
-          "wordCount": 2822,
+          "wordCount": 2803,
           "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
         },
         {
@@ -162,7 +171,7 @@
           "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
           "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
           "publishedOn": "2021-05-14T13:00:00.000Z",
-          "wordCount": 2069,
+          "wordCount": 2063,
           "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
         },
         {
@@ -171,7 +180,7 @@
           "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
           "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2144,
+          "wordCount": 2138,
           "title": "Building an image gallery with Fastify and React"
         },
         {
@@ -180,7 +189,7 @@
           "description": "Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.",
           "link": "https://daily.dev/blog/how-to-use-git-bisect-for-debugging",
           "publishedOn": "2021-05-13T07:25:00.000Z",
-          "wordCount": 2138,
+          "wordCount": 2132,
           "title": "How to Use Git Bisect for Debugging"
         },
         {
@@ -189,7 +198,7 @@
           "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
           "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
           "publishedOn": "2021-05-12T12:30:00.000Z",
-          "wordCount": 606,
+          "wordCount": 587,
           "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
           "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "publishedOn": "2021-05-06T12:00:00.000Z",
-          "wordCount": 3436,
+          "wordCount": 3417,
           "title": "Everything you need to know about GraphQL Authentication and Authorization"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
           "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
           "publishedOn": "2021-05-05T12:30:00.000Z",
-          "wordCount": 634,
+          "wordCount": 615,
           "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
         },
         {
@@ -216,7 +225,7 @@
           "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
           "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
           "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2195,
+          "wordCount": 2176,
           "title": "How to build blazing fast APIs with Fastify and TypeScript"
         },
         {
@@ -225,7 +234,7 @@
           "description": "This was such a busy week! So many releases and launches that you gotta check out.",
           "link": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
           "publishedOn": "2021-04-28T12:30:00.000Z",
-          "wordCount": 633,
+          "wordCount": 614,
           "title": "Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177"
         },
         {
@@ -234,7 +243,7 @@
           "description": "GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.",
           "link": "https://daily.dev/blog/pagination-in-graphql",
           "publishedOn": "2021-04-26T23:00:00.000Z",
-          "wordCount": 5812,
+          "wordCount": 5793,
           "title": "Step by step guide to pagination in GraphQL"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
           "publishedOn": "2021-04-22T16:20:00.000Z",
-          "wordCount": 2306,
+          "wordCount": 2287,
           "title": "Tailwind CSS from Zero to Hero - Up and Running"
         },
         {
@@ -252,17 +261,8 @@
           "description": "Check out our weekly picks that include inspiring portfolios, JavaScript fundamentals, OOP, and more",
           "link": "https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176",
           "publishedOn": "2021-04-21T12:30:00.000Z",
-          "wordCount": 661,
+          "wordCount": 642,
           "title": "Context vs Redux, notebookJS, kickass GitHub profile page - Picks #176"
-        },
-        {
-          "id": "https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie",
-          "author": null,
-          "description": "The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.",
-          "link": "https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie",
-          "publishedOn": "2021-04-19T12:00:00.000Z",
-          "wordCount": 1154,
-          "title": "Unit Testing Fraud: Why Code Coverage is a Lie"
         }
       ]
     }

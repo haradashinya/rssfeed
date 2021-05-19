@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-18T00:51:34.839Z</id>
+    <id>urn:2021-05-19T00:47:02.263Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T00:51:34.839Z</updated>
+    <updated>2021-05-19T00:47:02.263Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
+        <id>https://css-tricks.com/?p=340613</id>
+        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
+        <updated>2021-05-18T19:14:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
+A fella wrote to me a while back outlining a situation he was in. His company has …
+The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
+        <id>https://css-tricks.com/?p=340420</id>
+        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
+        <updated>2021-05-18T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
+The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Silvia O'Dwyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building modern APIs with Fastify, Graphql, and MongoDB]]></title>
+        <id>https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb</id>
+        <link href="https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb"/>
+        <updated>2021-05-18T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
         <id>https://css-tricks.com/?p=340716</id>
@@ -219,31 +254,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
-        <id>https://css-tricks.com/?p=339138</id>
-        <link href="https://css-tricks.com/next-gen-css-container/"/>
-        <updated>2021-05-11T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
-The post Next Gen CSS: @container appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Una Kravets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
-        <id>https://css-tricks.com/?p=340106</id>
-        <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
-        <updated>2021-05-11T14:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
-If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …
-The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Everything you need to know about GraphQL Authentication and Authorization]]></title>
         <id>https://daily.dev/blog/authentication-and-authorization-in-graphql</id>
         <link href="https://daily.dev/blog/authentication-and-authorization-in-graphql"/>
@@ -309,16 +319,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/context-vs-redux-notebookjs-kickass-github-profile-page-picks-176"/>
         <updated>2021-04-21T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Check out our weekly picks that include inspiring portfolios, JavaScript fundamentals, OOP, and more]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unit Testing Fraud: Why Code Coverage is a Lie]]></title>
-        <id>https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie</id>
-        <link href="https://daily.dev/blog/unit-testing-fraud-why-code-coverage-is-a-lie"/>
-        <updated>2021-04-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The coverage report can be helpful in identifying untested code, but targeting a percentage of coverage does not equal quality-tested code.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
