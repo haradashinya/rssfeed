@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T00:47:54.771Z</id>
+    <id>urn:2021-05-23T00:53:59.831Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T00:47:54.771Z</updated>
+    <updated>2021-05-23T00:53:59.831Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -326,16 +326,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/pagination-in-graphql"/>
         <updated>2021-04-26T23:00:00.000Z</updated>
         <summary type="html"><![CDATA[GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind CSS from Zero to Hero - Up and Running]]></title>
-        <id>https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running</id>
-        <link href="https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running"/>
-        <updated>2021-04-22T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>

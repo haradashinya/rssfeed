@@ -272,15 +272,6 @@
           "publishedOn": "2021-04-26T23:00:00.000Z",
           "wordCount": 5779,
           "title": "Step by step guide to pagination in GraphQL"
-        },
-        {
-          "id": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
-          "author": null,
-          "description": "Welcome to the complete Tailwind CSS guide you need to build high-quality frontend webpages.",
-          "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-up-and-running",
-          "publishedOn": "2021-04-22T16:20:00.000Z",
-          "wordCount": 2273,
-          "title": "Tailwind CSS from Zero to Hero - Up and Running"
         }
       ]
     }
