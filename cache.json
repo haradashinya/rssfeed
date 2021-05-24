@@ -11,7 +11,7 @@
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
           "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1166,
+          "wordCount": 1168,
           "title": "Should DevTools teach the CSS cascade?"
         },
         {
@@ -20,7 +20,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3256,
+          "wordCount": 3343,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -38,7 +38,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 929,
+          "wordCount": 1030,
           "title": "JSON in CSS"
         },
         {
@@ -119,7 +119,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2908,
+          "wordCount": 2963,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -153,7 +153,7 @@
           "description": "The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
           "link": "https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021",
           "publishedOn": "2021-05-21T15:00:00.000Z",
-          "wordCount": 2778,
+          "wordCount": 2797,
           "title": "My takeaways from Google I/O Event 2021 as a developer"
         },
         {
@@ -162,7 +162,7 @@
           "description": "gRPC is a robust open-source high-performance RPC framework released by Google in 2015. It is a standardized, general-purpose, and cross-platform RPC infrastructure that provides scalability, performance, and functionality to distributed applications.",
           "link": "https://daily.dev/blog/introduction-to-grpc",
           "publishedOn": "2021-05-20T14:45:00.000Z",
-          "wordCount": 2833,
+          "wordCount": 2831,
           "title": "gRPC: detailed guide to the core concepts"
         },
         {
@@ -171,7 +171,7 @@
           "description": "Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!",
           "link": "https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180",
           "publishedOn": "2021-05-19T12:30:00.000Z",
-          "wordCount": 599,
+          "wordCount": 597,
           "title": "Next-Gen CSS, OSS needs you, testing best practices - Picks #180"
         },
         {
@@ -180,7 +180,7 @@
           "description": "Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.",
           "link": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
           "publishedOn": "2021-05-18T00:30:00.000Z",
-          "wordCount": 1927,
+          "wordCount": 1925,
           "title": "Building modern APIs with Fastify, Graphql, and MongoDB"
         },
         {
@@ -189,7 +189,7 @@
           "description": "Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.",
           "link": "https://daily.dev/blog/subscriptions-in-graphql",
           "publishedOn": "2021-05-17T12:00:00.000Z",
-          "wordCount": 2789,
+          "wordCount": 2787,
           "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
         },
         {
@@ -198,7 +198,7 @@
           "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
           "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
           "publishedOn": "2021-05-14T13:00:00.000Z",
-          "wordCount": 2058,
+          "wordCount": 2056,
           "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
         },
         {
@@ -207,7 +207,7 @@
           "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
           "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2124,
+          "wordCount": 2122,
           "title": "Building an image gallery with Fastify and React"
         },
         {
@@ -216,7 +216,7 @@
           "description": "Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.",
           "link": "https://daily.dev/blog/how-to-use-git-bisect-for-debugging",
           "publishedOn": "2021-05-13T07:25:00.000Z",
-          "wordCount": 2106,
+          "wordCount": 2104,
           "title": "How to Use Git Bisect for Debugging"
         },
         {
@@ -225,7 +225,7 @@
           "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
           "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
           "publishedOn": "2021-05-12T12:30:00.000Z",
-          "wordCount": 573,
+          "wordCount": 571,
           "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
         },
         {
@@ -234,7 +234,7 @@
           "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
           "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "publishedOn": "2021-05-06T12:00:00.000Z",
-          "wordCount": 3403,
+          "wordCount": 3401,
           "title": "Everything you need to know about GraphQL Authentication and Authorization"
         },
         {
@@ -243,7 +243,7 @@
           "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
           "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
           "publishedOn": "2021-05-05T12:30:00.000Z",
-          "wordCount": 601,
+          "wordCount": 599,
           "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
         },
         {
@@ -252,7 +252,7 @@
           "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
           "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
           "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2162,
+          "wordCount": 2160,
           "title": "How to build blazing fast APIs with Fastify and TypeScript"
         },
         {
@@ -261,7 +261,7 @@
           "description": "This was such a busy week! So many releases and launches that you gotta check out.",
           "link": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
           "publishedOn": "2021-04-28T12:30:00.000Z",
-          "wordCount": 600,
+          "wordCount": 598,
           "title": "Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177"
         },
         {
@@ -270,11 +270,11 @@
           "description": "GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.",
           "link": "https://daily.dev/blog/pagination-in-graphql",
           "publishedOn": "2021-04-26T23:00:00.000Z",
-          "wordCount": 5779,
+          "wordCount": 5777,
           "title": "Step by step guide to pagination in GraphQL"
         }
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
