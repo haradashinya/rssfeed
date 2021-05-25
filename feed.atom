@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T00:51:11.331Z</id>
+    <id>urn:2021-05-25T00:50:26.979Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:51:11.331Z</updated>
+    <updated>2021-05-25T00:50:26.979Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Links on Performance]]></title>
+        <id>https://css-tricks.com/?p=340808</id>
+        <link href="https://css-tricks.com/links-on-performance/"/>
+        <updated>2021-05-24T22:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
+…
+The post Links on Performance appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
+        <id>https://css-tricks.com/?p=340626</id>
+        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
+        <updated>2021-05-24T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
+The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Raymond Camden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gRPC vs. REST: pros and cons and technical comparison]]></title>
+        <id>https://daily.dev/blog/grpc-vs-rest</id>
+        <link href="https://daily.dev/blog/grpc-vs-rest"/>
+        <updated>2021-05-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So gRPC over REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
         <id>https://css-tricks.com/?p=340991</id>
@@ -195,30 +246,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ashley Kolodziej</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How GraphQL Subscriptions Work: Tips, Best Practices and Examples.]]></title>
         <id>https://daily.dev/blog/subscriptions-in-graphql</id>
         <link href="https://daily.dev/blog/subscriptions-in-graphql"/>
@@ -226,18 +253,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
