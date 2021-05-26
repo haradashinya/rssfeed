@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T00:50:26.979Z</id>
+    <id>urn:2021-05-26T01:00:33.302Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T00:50:26.979Z</updated>
+    <updated>2021-05-26T01:00:33.302Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
+        <id>https://css-tricks.com/?p=340759</id>
+        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
+        <updated>2021-05-25T14:25:06.000Z</updated>
+        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
+Table of contents
+What’s the game 
+…
+The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastify authentication strategy]]></title>
+        <id>https://daily.dev/blog/fastify-authentication-strategy</id>
+        <link href="https://daily.dev/blog/fastify-authentication-strategy"/>
+        <updated>2021-05-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authenticating users to our application prevents the wrong people from gaining access to our service. Without strong authentication and proper implementation strategies, our service could be compromised. In this article, we would look at how to implement a custom authentication strategy in Fastify.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
+        <id>https://css-tricks.com/?p=341383</id>
+        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
+        <updated>2021-05-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
+The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ahmed Bouchefra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on Performance]]></title>
         <id>https://css-tricks.com/?p=340808</id>
@@ -51,7 +88,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://daily.dev/blog/grpc-vs-rest</id>
         <link href="https://daily.dev/blog/grpc-vs-rest"/>
         <updated>2021-05-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[So gRPC over REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.]]></summary>
+        <summary type="html"><![CDATA[So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
@@ -210,18 +247,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Silvia O'Dwyer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building modern APIs with Fastify, Graphql, and MongoDB]]></title>
         <id>https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb</id>
         <link href="https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb"/>
@@ -229,20 +254,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
