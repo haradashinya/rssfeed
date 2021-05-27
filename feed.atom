@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-26T01:00:33.302Z</id>
+    <id>urn:2021-05-27T01:04:19.909Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T01:00:33.302Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-27T01:04:19.909Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
+        <id>https://css-tricks.com/?p=339759</id>
+        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
+        <updated>2021-05-26T17:56:34.000Z</updated>
+        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
+The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Web Components]]></title>
+        <id>https://css-tricks.com/?p=340901</id>
+        <link href="https://css-tricks.com/links-on-web-components/"/>
+        <updated>2021-05-26T17:56:12.000Z</updated>
+        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
+…
+The post Links on Web Components appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+        <id>https://css-tricks.com/?p=340705</id>
+        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
+        <updated>2021-05-26T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
+We tested 10 different …
+The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andrei Pfeiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion API, Ethereum Development, WWDC21 - Picks #181]]></title>
+        <id>https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181</id>
+        <link href="https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181"/>
+        <updated>2021-05-26T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
         <id>https://css-tricks.com/?p=340759</id>
@@ -200,30 +248,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Shubham Jain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next-Gen CSS, OSS needs you, testing best practices - Picks #180]]></title>
         <id>https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180</id>
         <link href="https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180"/>
@@ -231,19 +255,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -342,16 +353,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177"/>
         <updated>2021-04-28T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[This was such a busy week! So many releases and launches that you gotta check out.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step by step guide to pagination in GraphQL]]></title>
-        <id>https://daily.dev/blog/pagination-in-graphql</id>
-        <link href="https://daily.dev/blog/pagination-in-graphql"/>
-        <updated>2021-04-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GraphQL enables you to fetch exactly the fields you need from your data graph, with no unnecessary overhead. Learn how to implement it.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
