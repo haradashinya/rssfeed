@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T01:04:19.909Z</id>
+    <id>urn:2021-05-28T01:12:29.427Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T01:04:19.909Z</updated>
+    <updated>2021-05-28T01:12:29.427Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
+        <id>https://css-tricks.com/?p=341298</id>
+        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
+        <updated>2021-05-27T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
+Like this:
+$ brew install somepackage
+The point of that is that it …
+The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a chat app using gRPC and React]]></title>
+        <id>https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs</id>
+        <link href="https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs"/>
+        <updated>2021-05-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
         <id>https://css-tricks.com/?p=339759</id>
@@ -202,18 +251,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[gRPC: detailed guide to the core concepts]]></title>
         <id>https://daily.dev/blog/introduction-to-grpc</id>
         <link href="https://daily.dev/blog/introduction-to-grpc"/>
@@ -221,30 +258,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[gRPC is a robust open-source high-performance RPC framework released by Google in 2015. It is a standardized, general-purpose, and cross-platform RPC infrastructure that provides scalability, performance, and functionality to distributed applications.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -343,16 +356,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript"/>
         <updated>2021-05-05T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177]]></title>
-        <id>https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177</id>
-        <link href="https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177"/>
-        <updated>2021-04-28T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This was such a busy week! So many releases and launches that you gotta check out.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>

@@ -6,12 +6,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341298",
+          "author": "Chris Coyier",
+          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
+          "publishedOn": "2021-05-27T18:22:11.000Z",
+          "wordCount": 1049,
+          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341020",
+          "author": "Robin Rendle",
+          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-show-images-on-click/",
+          "publishedOn": "2021-05-27T14:25:29.000Z",
+          "wordCount": 1421,
+          "title": "How to Show Images on Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340910",
+          "author": "Michael Rispoli",
+          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
+          "publishedOn": "2021-05-27T14:23:23.000Z",
+          "wordCount": 2327,
+          "title": "Rethinking Postgres in a Post-Server World"
+        },
+        {
           "id": "https://css-tricks.com/?p=339759",
           "author": "Chris Coyier",
           "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/awesome-standalone-web-components/",
           "publishedOn": "2021-05-26T17:56:34.000Z",
-          "wordCount": 952,
+          "wordCount": 1168,
           "title": "Awesome Standalone (Web Components)"
         },
         {
@@ -20,7 +47,7 @@
           "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/links-on-web-components/",
           "publishedOn": "2021-05-26T17:56:12.000Z",
-          "wordCount": 712,
+          "wordCount": 747,
           "title": "Links on Web Components"
         },
         {
@@ -29,7 +56,7 @@
           "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
           "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3416,
+          "wordCount": 3672,
           "title": "A Thorough Analysis of CSS-in-JS"
         },
         {
@@ -65,7 +92,7 @@
           "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://github.com/justjavac/proxy-www",
           "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
+          "wordCount": 516,
           "title": "proxy-www"
         },
         {
@@ -92,7 +119,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3553,
+          "wordCount": 3658,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-05-20T22:29:53.000Z",
           "wordCount": 1092,
           "title": "JSON in CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340933",
-          "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1747,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340897",
-          "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
         }
       ]
     },
@@ -148,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
+          "author": null,
+          "description": "In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.",
+          "link": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
+          "publishedOn": "2021-05-27T12:00:00.000Z",
+          "wordCount": 5376,
+          "title": "Build a chat app using gRPC and React"
+        },
+        {
           "id": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
           "author": null,
           "description": "Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more",
           "link": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
           "publishedOn": "2021-05-26T12:30:00.000Z",
-          "wordCount": 557,
+          "wordCount": 589,
           "title": "Notion API, Ethereum Development, WWDC21 - Picks #181"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Authenticating users to our application prevents the wrong people from gaining access to our service. Without strong authentication and proper implementation strategies, our service could be compromised. In this article, we would look at how to implement a custom authentication strategy in Fastify.",
           "link": "https://daily.dev/blog/fastify-authentication-strategy",
           "publishedOn": "2021-05-25T12:00:00.000Z",
-          "wordCount": 2442,
+          "wordCount": 2475,
           "title": "Fastify authentication strategy"
         },
         {
@@ -171,7 +180,7 @@
           "description": "So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.",
           "link": "https://daily.dev/blog/grpc-vs-rest",
           "publishedOn": "2021-05-24T12:00:00.000Z",
-          "wordCount": 2667,
+          "wordCount": 2700,
           "title": "gRPC vs. REST: pros and cons and technical comparison"
         },
         {
@@ -180,7 +189,7 @@
           "description": "The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
           "link": "https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021",
           "publishedOn": "2021-05-21T15:00:00.000Z",
-          "wordCount": 2824,
+          "wordCount": 2857,
           "title": "My takeaways from Google I/O Event 2021 as a developer"
         },
         {
@@ -189,7 +198,7 @@
           "description": "gRPC is a robust open-source high-performance RPC framework released by Google in 2015. It is a standardized, general-purpose, and cross-platform RPC infrastructure that provides scalability, performance, and functionality to distributed applications.",
           "link": "https://daily.dev/blog/introduction-to-grpc",
           "publishedOn": "2021-05-20T14:45:00.000Z",
-          "wordCount": 2888,
+          "wordCount": 2920,
           "title": "gRPC: detailed guide to the core concepts"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!",
           "link": "https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180",
           "publishedOn": "2021-05-19T12:30:00.000Z",
-          "wordCount": 618,
+          "wordCount": 650,
           "title": "Next-Gen CSS, OSS needs you, testing best practices - Picks #180"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.",
           "link": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
           "publishedOn": "2021-05-18T00:30:00.000Z",
-          "wordCount": 1955,
+          "wordCount": 1987,
           "title": "Building modern APIs with Fastify, Graphql, and MongoDB"
         },
         {
@@ -216,7 +225,7 @@
           "description": "Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.",
           "link": "https://daily.dev/blog/subscriptions-in-graphql",
           "publishedOn": "2021-05-17T12:00:00.000Z",
-          "wordCount": 2808,
+          "wordCount": 2840,
           "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
         },
         {
@@ -225,7 +234,7 @@
           "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
           "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
           "publishedOn": "2021-05-14T13:00:00.000Z",
-          "wordCount": 2077,
+          "wordCount": 2109,
           "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
         },
         {
@@ -234,7 +243,7 @@
           "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
           "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2178,
+          "wordCount": 2210,
           "title": "Building an image gallery with Fastify and React"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.",
           "link": "https://daily.dev/blog/how-to-use-git-bisect-for-debugging",
           "publishedOn": "2021-05-13T07:25:00.000Z",
-          "wordCount": 2171,
+          "wordCount": 2203,
           "title": "How to Use Git Bisect for Debugging"
         },
         {
@@ -252,7 +261,7 @@
           "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
           "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
           "publishedOn": "2021-05-12T12:30:00.000Z",
-          "wordCount": 592,
+          "wordCount": 624,
           "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
         },
         {
@@ -261,7 +270,7 @@
           "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
           "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "publishedOn": "2021-05-06T12:00:00.000Z",
-          "wordCount": 3422,
+          "wordCount": 3454,
           "title": "Everything you need to know about GraphQL Authentication and Authorization"
         },
         {
@@ -270,7 +279,7 @@
           "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
           "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
           "publishedOn": "2021-05-05T12:30:00.000Z",
-          "wordCount": 620,
+          "wordCount": 652,
           "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
         },
         {
@@ -279,17 +288,8 @@
           "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
           "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
           "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2181,
+          "wordCount": 2213,
           "title": "How to build blazing fast APIs with Fastify and TypeScript"
-        },
-        {
-          "id": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
-          "author": null,
-          "description": "This was such a busy week! So many releases and launches that you gotta check out.",
-          "link": "https://daily.dev/blog/alpine-js-v3-ubuntu-21-04-fower-v1-picks-177",
-          "publishedOn": "2021-04-28T12:30:00.000Z",
-          "wordCount": 619,
-          "title": "Alpine.js v3, Ubuntu 21.04, Fower v1 - Picks #177"
         }
       ]
     }
