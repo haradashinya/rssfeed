@@ -6,12 +6,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341163",
+          "author": "Thomas Park",
+          "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
+          "publishedOn": "2021-05-28T14:36:47.000Z",
+          "wordCount": 1844,
+          "title": "Dynamic Favicons for WordPress"
+        },
+        {
           "id": "https://css-tricks.com/?p=341298",
           "author": "Chris Coyier",
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
           "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1049,
+          "wordCount": 1288,
           "title": "To $ or Not to $: Displaying Terminal Code Snippets"
         },
         {
@@ -20,7 +29,7 @@
           "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-show-images-on-click/",
           "publishedOn": "2021-05-27T14:25:29.000Z",
-          "wordCount": 1421,
+          "wordCount": 1491,
           "title": "How to Show Images on Click"
         },
         {
@@ -29,7 +38,7 @@
           "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
           "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2327,
+          "wordCount": 2452,
           "title": "Rethinking Postgres in a Post-Server World"
         },
         {
@@ -47,7 +56,7 @@
           "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/links-on-web-components/",
           "publishedOn": "2021-05-26T17:56:12.000Z",
-          "wordCount": 747,
+          "wordCount": 862,
           "title": "Links on Web Components"
         },
         {
@@ -65,7 +74,7 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7561,
+          "wordCount": 7589,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         },
         {
@@ -92,7 +101,7 @@
           "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://github.com/justjavac/proxy-www",
           "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 516,
+          "wordCount": 527,
           "title": "proxy-www"
         },
         {
@@ -119,7 +128,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
+          "wordCount": 3553,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -130,15 +139,6 @@
           "publishedOn": "2021-05-21T14:29:16.000Z",
           "wordCount": 295,
           "title": "CSS Hell"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1092,
-          "title": "JSON in CSS"
         }
       ]
     },

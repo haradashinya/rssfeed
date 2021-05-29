@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T01:12:29.427Z</id>
+    <id>urn:2021-05-29T01:25:57.558Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T01:12:29.427Z</updated>
+    <updated>2021-05-29T01:25:57.558Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
+        <id>https://css-tricks.com/?p=341163</id>
+        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
+        <updated>2021-05-28T14:36:47.000Z</updated>
+        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
+The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Thomas Park</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
         <id>https://css-tricks.com/?p=341298</id>
@@ -233,18 +245,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 From Stefánia Péter. 
 Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
 The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
