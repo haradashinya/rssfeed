@@ -20,7 +20,7 @@
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
           "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1288,
+          "wordCount": 1464,
           "title": "To $ or Not to $: Displaying Terminal Code Snippets"
         },
         {
@@ -83,7 +83,7 @@
           "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
           "publishedOn": "2021-05-25T11:00:00.000Z",
-          "wordCount": 1386,
+          "wordCount": 1425,
           "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
         },
         {
@@ -128,7 +128,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3553,
+          "wordCount": 3658,
           "title": "Svelte for the Experienced React Dev"
         },
         {
