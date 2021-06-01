@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T01:47:28.769Z</id>
+    <id>urn:2021-06-01T02:06:44.160Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T01:47:28.769Z</updated>
+    <updated>2021-06-01T02:06:44.160Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gRPC service in Node.js: Tutorial, Examples and Best practices]]></title>
+        <id>https://daily.dev/blog/build-a-grpc-service-in-nodejs</id>
+        <link href="https://daily.dev/blog/build-a-grpc-service-in-nodejs"/>
+        <updated>2021-05-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
         <id>https://css-tricks.com/?p=341163</id>
@@ -222,32 +260,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/?p=340825</id>
-        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
-        <updated>2021-05-21T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
-The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Hell]]></title>
-        <id>https://css-tricks.com/?p=340919</id>
-        <link href="https://csshell.dev/"/>
-        <updated>2021-05-21T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
-From Stefánia Péter. 
-Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
-The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
