@@ -6,12 +6,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341720",
+          "author": "Chris Coyier",
+          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-06-01T22:08:48.000Z",
+          "wordCount": 3202,
+          "title": "Code blocks, but better"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341342",
+          "author": "Evgeny Klimenchenko",
+          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
+          "publishedOn": "2021-06-01T14:17:43.000Z",
+          "wordCount": 3850,
+          "title": "Front-End Testing is For Everyone"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341296",
+          "author": "Geoff Graham",
+          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
+          "publishedOn": "2021-06-01T14:16:55.000Z",
+          "wordCount": 926,
+          "title": "Jetpack Boost Handles Critical CSS For You"
+        },
+        {
           "id": "https://css-tricks.com/?p=340465",
           "author": "Jason Lengstorf",
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1796,
+          "wordCount": 1852,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -20,7 +47,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 981,
+          "wordCount": 1220,
           "title": "Local: Always Getting Better"
         },
         {
@@ -83,7 +110,7 @@
           "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
           "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3850,
+          "wordCount": 4042,
           "title": "A Thorough Analysis of CSS-in-JS"
         },
         {
@@ -92,7 +119,7 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7705,
+          "wordCount": 7769,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-05-24T22:03:30.000Z",
           "wordCount": 868,
           "title": "Links on Performance"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341153",
-          "author": "Chris Coyier",
-          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://github.com/justjavac/proxy-www",
-          "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
-          "title": "proxy-www"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340626",
-          "author": "Raymond Camden",
-          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
-          "publishedOn": "2021-05-24T13:57:21.000Z",
-          "wordCount": 2866,
-          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340991",
-          "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1168,
-          "title": "Should DevTools teach the CSS cascade?"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://daily.dev/blog/rss.xml",
       "siteUrl": "https://daily.dev",
       "articles": [
+        {
+          "id": "https://daily.dev/blog/caching-in-graphql",
+          "author": null,
+          "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
+          "link": "https://daily.dev/blog/caching-in-graphql",
+          "publishedOn": "2021-06-01T12:00:00.000Z",
+          "wordCount": 3745,
+          "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
+        },
         {
           "id": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
           "author": null,
@@ -303,5 +312,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
