@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341724",
+          "author": "Chris Coyier",
+          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/debugging-ios-safari/",
+          "publishedOn": "2021-06-02T21:15:28.000Z",
+          "wordCount": 974,
+          "title": "Debugging iOS Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341442",
+          "author": "Dmitry Mayorov",
+          "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
+          "publishedOn": "2021-06-02T13:35:53.000Z",
+          "wordCount": 4169,
+          "title": "A Crash Course in WordPress Block Filters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341572",
+          "author": "Chris Coyier",
+          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
+          "publishedOn": "2021-06-02T13:35:40.000Z",
+          "wordCount": 1058,
+          "title": "Are Custom Properties a “Menu of What Will Change”?"
+        },
+        {
           "id": "https://css-tricks.com/?p=341720",
           "author": "Chris Coyier",
           "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -20,7 +47,7 @@
           "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
           "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 3850,
+          "wordCount": 3993,
           "title": "Front-End Testing is For Everyone"
         },
         {
@@ -38,7 +65,7 @@
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1852,
+          "wordCount": 1952,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -47,7 +74,7 @@
           "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/local-always-getting-better/",
           "publishedOn": "2021-05-31T17:13:02.000Z",
-          "wordCount": 1220,
+          "wordCount": 1243,
           "title": "Local: Always Getting Better"
         },
         {
@@ -65,7 +92,7 @@
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
           "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1564,
+          "wordCount": 1581,
           "title": "To $ or Not to $: Displaying Terminal Code Snippets"
         },
         {
@@ -92,7 +119,7 @@
           "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/awesome-standalone-web-components/",
           "publishedOn": "2021-05-26T17:56:34.000Z",
-          "wordCount": 1329,
+          "wordCount": 1389,
           "title": "Awesome Standalone (Web Components)"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-05-26T14:08:49.000Z",
           "wordCount": 4042,
           "title": "A Thorough Analysis of CSS-in-JS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340759",
-          "author": "Josh Collinsworth",
-          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
-          "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7769,
-          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341383",
-          "author": "Ahmed Bouchefra",
-          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
-          "publishedOn": "2021-05-25T11:00:00.000Z",
-          "wordCount": 1425,
-          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340808",
-          "author": "Chris Coyier",
-          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-performance/",
-          "publishedOn": "2021-05-24T22:03:30.000Z",
-          "wordCount": 868,
-          "title": "Links on Performance"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://daily.dev/blog/rss.xml",
       "siteUrl": "https://daily.dev",
       "articles": [
+        {
+          "id": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
+          "author": null,
+          "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
+          "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
+          "publishedOn": "2021-06-02T12:30:00.000Z",
+          "wordCount": 650,
+          "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
+        },
         {
           "id": "https://daily.dev/blog/caching-in-graphql",
           "author": null,

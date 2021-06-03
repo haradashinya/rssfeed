@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T02:14:18.570Z</id>
+    <id>urn:2021-06-03T01:51:40.696Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T02:14:18.570Z</updated>
+    <updated>2021-06-03T01:51:40.696Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
+        <id>https://css-tricks.com/?p=341724</id>
+        <link href="https://css-tricks.com/debugging-ios-safari/"/>
+        <updated>2021-06-02T21:15:28.000Z</updated>
+        <summary type="html"><![CDATA[How do I debug Safari on iOS?
+These are my general steps, starting with not even using iOS Safari.
+1. Is this just a small-screen problem?
+Lemme just use the device mode in Chrome quick.
+Note that this does a …
+The post Debugging iOS Safari appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
+        <id>https://css-tricks.com/?p=341442</id>
+        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
+        <updated>2021-06-02T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
+The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Dmitry Mayorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
+        <id>https://css-tricks.com/?p=341572</id>
+        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
+        <updated>2021-06-02T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
+The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182]]></title>
+        <id>https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182</id>
+        <link href="https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182"/>
+        <updated>2021-06-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code blocks, but better]]></title>
         <id>https://css-tricks.com/?p=341720</id>
@@ -199,21 +249,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
-        <id>https://css-tricks.com/?p=340759</id>
-        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
-        <updated>2021-05-25T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
-Table of contents
-What’s the game 
-…
-The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fastify authentication strategy]]></title>
         <id>https://daily.dev/blog/fastify-authentication-strategy</id>
         <link href="https://daily.dev/blog/fastify-authentication-strategy"/>
@@ -221,31 +256,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Authenticating users to our application prevents the wrong people from gaining access to our service. Without strong authentication and proper implementation strategies, our service could be compromised. In this article, we would look at how to implement a custom authentication strategy in Fastify.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
-        <id>https://css-tricks.com/?p=341383</id>
-        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
-        <updated>2021-05-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
-The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ahmed Bouchefra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Performance]]></title>
-        <id>https://css-tricks.com/?p=340808</id>
-        <link href="https://css-tricks.com/links-on-performance/"/>
-        <updated>2021-05-24T22:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
-…
-The post Links on Performance appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
