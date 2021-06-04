@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T01:51:40.696Z</id>
+    <id>urn:2021-06-04T01:35:19.136Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:51:40.696Z</updated>
+    <updated>2021-06-04T01:35:19.136Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master code splitting with dynamic imports in Next.js]]></title>
+        <id>https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs</id>
+        <link href="https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs"/>
+        <updated>2021-06-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debugging iOS Safari]]></title>
         <id>https://css-tricks.com/?p=341724</id>
@@ -213,32 +248,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Links on Web Components]]></title>
-        <id>https://css-tricks.com/?p=340901</id>
-        <link href="https://css-tricks.com/links-on-web-components/"/>
-        <updated>2021-05-26T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
-…
-The post Links on Web Components appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-        <id>https://css-tricks.com/?p=340705</id>
-        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
-        <updated>2021-05-26T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
-We tested 10 different …
-The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andrei Pfeiffer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Notion API, Ethereum Development, WWDC21 - Picks #181]]></title>
         <id>https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181</id>
         <link href="https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181"/>
@@ -364,26 +373,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/authentication-and-authorization-in-graphql"/>
         <updated>2021-05-06T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Practices, MERN Stack, Working With TypeScript - Picks 178]]></title>
-        <id>https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178</id>
-        <link href="https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178"/>
-        <updated>2021-05-05T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build blazing fast APIs with Fastify and TypeScript]]></title>
-        <id>https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript</id>
-        <link href="https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript"/>
-        <updated>2021-05-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>

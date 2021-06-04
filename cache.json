@@ -6,12 +6,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341584",
+          "author": "Temani Afif",
+          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "publishedOn": "2021-06-03T14:25:57.000Z",
+          "wordCount": 4971,
+          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341494",
+          "author": "Chris Coyier",
+          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
+          "publishedOn": "2021-06-03T14:25:19.000Z",
+          "wordCount": 865,
+          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
+        },
+        {
           "id": "https://css-tricks.com/?p=341724",
           "author": "Chris Coyier",
           "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/debugging-ios-safari/",
           "publishedOn": "2021-06-02T21:15:28.000Z",
-          "wordCount": 974,
+          "wordCount": 1039,
           "title": "Debugging iOS Safari"
         },
         {
@@ -47,7 +65,7 @@
           "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
           "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 3993,
+          "wordCount": 4077,
           "title": "Front-End Testing is For Everyone"
         },
         {
@@ -65,7 +83,7 @@
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1952,
+          "wordCount": 2069,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -110,7 +128,7 @@
           "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
           "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2479,
+          "wordCount": 2494,
           "title": "Rethinking Postgres in a Post-Server World"
         },
         {
@@ -121,24 +139,6 @@
           "publishedOn": "2021-05-26T17:56:34.000Z",
           "wordCount": 1389,
           "title": "Awesome Standalone (Web Components)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340901",
-          "author": "Chris Coyier",
-          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-web-components/",
-          "publishedOn": "2021-05-26T17:56:12.000Z",
-          "wordCount": 856,
-          "title": "Links on Web Components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340705",
-          "author": "Andrei Pfeiffer",
-          "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
-          "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 4042,
-          "title": "A Thorough Analysis of CSS-in-JS"
         }
       ]
     },
@@ -148,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
+          "author": null,
+          "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
+          "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
+          "publishedOn": "2021-06-03T12:00:00.000Z",
+          "wordCount": 2337,
+          "title": "Master code splitting with dynamic imports in Next.js"
+        },
+        {
           "id": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "author": null,
           "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
           "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 650,
+          "wordCount": 632,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         },
         {
@@ -162,7 +171,7 @@
           "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
           "link": "https://daily.dev/blog/caching-in-graphql",
           "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3745,
+          "wordCount": 3727,
           "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
         },
         {
@@ -171,7 +180,7 @@
           "description": "gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
           "publishedOn": "2021-05-31T12:00:00.000Z",
-          "wordCount": 3668,
+          "wordCount": 3626,
           "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
         },
         {
@@ -180,7 +189,7 @@
           "description": "In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
           "publishedOn": "2021-05-27T12:00:00.000Z",
-          "wordCount": 5384,
+          "wordCount": 5366,
           "title": "Build a chat app using gRPC and React"
         },
         {
@@ -189,7 +198,7 @@
           "description": "Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more",
           "link": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
           "publishedOn": "2021-05-26T12:30:00.000Z",
-          "wordCount": 565,
+          "wordCount": 547,
           "title": "Notion API, Ethereum Development, WWDC21 - Picks #181"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Authenticating users to our application prevents the wrong people from gaining access to our service. Without strong authentication and proper implementation strategies, our service could be compromised. In this article, we would look at how to implement a custom authentication strategy in Fastify.",
           "link": "https://daily.dev/blog/fastify-authentication-strategy",
           "publishedOn": "2021-05-25T12:00:00.000Z",
-          "wordCount": 2483,
+          "wordCount": 2441,
           "title": "Fastify authentication strategy"
         },
         {
@@ -207,7 +216,7 @@
           "description": "So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.",
           "link": "https://daily.dev/blog/grpc-vs-rest",
           "publishedOn": "2021-05-24T12:00:00.000Z",
-          "wordCount": 2676,
+          "wordCount": 2658,
           "title": "gRPC vs. REST: pros and cons and technical comparison"
         },
         {
@@ -216,7 +225,7 @@
           "description": "The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
           "link": "https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021",
           "publishedOn": "2021-05-21T15:00:00.000Z",
-          "wordCount": 2865,
+          "wordCount": 2823,
           "title": "My takeaways from Google I/O Event 2021 as a developer"
         },
         {
@@ -225,7 +234,7 @@
           "description": "gRPC is a robust open-source high-performance RPC framework released by Google in 2015. It is a standardized, general-purpose, and cross-platform RPC infrastructure that provides scalability, performance, and functionality to distributed applications.",
           "link": "https://daily.dev/blog/introduction-to-grpc",
           "publishedOn": "2021-05-20T14:45:00.000Z",
-          "wordCount": 2896,
+          "wordCount": 2878,
           "title": "gRPC: detailed guide to the core concepts"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!",
           "link": "https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180",
           "publishedOn": "2021-05-19T12:30:00.000Z",
-          "wordCount": 626,
+          "wordCount": 608,
           "title": "Next-Gen CSS, OSS needs you, testing best practices - Picks #180"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.",
           "link": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
           "publishedOn": "2021-05-18T00:30:00.000Z",
-          "wordCount": 1963,
+          "wordCount": 1945,
           "title": "Building modern APIs with Fastify, Graphql, and MongoDB"
         },
         {
@@ -252,7 +261,7 @@
           "description": "Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.",
           "link": "https://daily.dev/blog/subscriptions-in-graphql",
           "publishedOn": "2021-05-17T12:00:00.000Z",
-          "wordCount": 2816,
+          "wordCount": 2798,
           "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
         },
         {
@@ -261,7 +270,7 @@
           "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
           "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
           "publishedOn": "2021-05-14T13:00:00.000Z",
-          "wordCount": 2085,
+          "wordCount": 2067,
           "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
         },
         {
@@ -270,7 +279,7 @@
           "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
           "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2186,
+          "wordCount": 2168,
           "title": "Building an image gallery with Fastify and React"
         },
         {
@@ -279,7 +288,7 @@
           "description": "Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.",
           "link": "https://daily.dev/blog/how-to-use-git-bisect-for-debugging",
           "publishedOn": "2021-05-13T07:25:00.000Z",
-          "wordCount": 2179,
+          "wordCount": 2161,
           "title": "How to Use Git Bisect for Debugging"
         },
         {
@@ -288,7 +297,7 @@
           "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
           "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
           "publishedOn": "2021-05-12T12:30:00.000Z",
-          "wordCount": 600,
+          "wordCount": 582,
           "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
         },
         {
@@ -297,26 +306,8 @@
           "description": "Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.",
           "link": "https://daily.dev/blog/authentication-and-authorization-in-graphql",
           "publishedOn": "2021-05-06T12:00:00.000Z",
-          "wordCount": 3430,
+          "wordCount": 3412,
           "title": "Everything you need to know about GraphQL Authentication and Authorization"
-        },
-        {
-          "id": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
-          "author": null,
-          "description": "Learn how to clean your code, build an app using the MERN stack, and more on our new weekly picks edition",
-          "link": "https://daily.dev/blog/coding-practices-mern-stack-working-with-typescript-picks-178",
-          "publishedOn": "2021-05-05T12:30:00.000Z",
-          "wordCount": 628,
-          "title": "Coding Practices, MERN Stack, Working With TypeScript - Picks 178"
-        },
-        {
-          "id": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
-          "author": null,
-          "description": "Fastify is a must use for all Node.js developers and I hope you give it a try in your next app.",
-          "link": "https://daily.dev/blog/how-to-build-blazing-fast-apis-with-fastify-and-typescript",
-          "publishedOn": "2021-05-05T12:00:00.000Z",
-          "wordCount": 2189,
-          "title": "How to build blazing fast APIs with Fastify and TypeScript"
         }
       ]
     }
