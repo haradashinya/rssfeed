@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T01:35:19.136Z</id>
+    <id>urn:2021-06-05T01:11:54.814Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:35:19.136Z</updated>
+    <updated>2021-06-05T01:11:54.814Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
         <id>https://css-tricks.com/?p=341584</id>
@@ -214,18 +241,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
-        <id>https://css-tricks.com/?p=340910</id>
-        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
-        <updated>2021-05-27T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
-The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Rispoli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build a chat app using gRPC and React]]></title>
         <id>https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs</id>
         <link href="https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs"/>
@@ -233,18 +248,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
-        <id>https://css-tricks.com/?p=339759</id>
-        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
-        <updated>2021-05-26T17:56:34.000Z</updated>
-        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
-The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -363,16 +366,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179"/>
         <updated>2021-05-12T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you need to know about GraphQL Authentication and Authorization]]></title>
-        <id>https://daily.dev/blog/authentication-and-authorization-in-graphql</id>
-        <link href="https://daily.dev/blog/authentication-and-authorization-in-graphql"/>
-        <updated>2021-05-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about authentication and how it can be implemented in a GraphQL API using Express.js and APolloServer.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
