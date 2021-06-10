@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T00:45:39.424Z</id>
+    <id>urn:2021-06-10T00:44:16.804Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T00:45:39.424Z</updated>
+    <updated>2021-06-10T00:44:16.804Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to implement i18n in Next.js 🌏]]></title>
+        <id>https://daily.dev/blog/internationalization-i18n-in-nextjs</id>
+        <link href="https://daily.dev/blog/internationalization-i18n-in-nextjs"/>
+        <updated>2021-06-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=blank]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=blank appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183]]></title>
+        <id>https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183</id>
+        <link href="https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183"/>
+        <updated>2021-06-09T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
         <id>https://css-tricks.com/?p=341982</id>
@@ -202,18 +249,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
-        <id>https://css-tricks.com/?p=341296</id>
-        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
-        <updated>2021-06-01T14:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
-The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Caching in GraphQL: How to prevent excessive and unnecessary requests]]></title>
         <id>https://daily.dev/blog/caching-in-graphql</id>
         <link href="https://daily.dev/blog/caching-in-graphql"/>
@@ -221,22 +256,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
-        <id>https://css-tricks.com/?p=340465</id>
-        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
-        <updated>2021-05-31T17:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
-building modern, accessible user interfaces
-creating interactive elements and complex animations
-managing complex application state
-…
-The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jason Lengstorf</name>
         </author>
     </entry>
     <entry>
