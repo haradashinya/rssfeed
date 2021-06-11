@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T00:44:16.804Z</id>
+    <id>urn:2021-06-11T00:40:19.306Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:44:16.804Z</updated>
+    <updated>2021-06-11T00:40:19.306Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
+        <id>https://css-tricks.com/?p=342050</id>
+        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
+        <updated>2021-06-11T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
+The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equal Columns With Flexbox: It’s More Complicated Than You Might Think]]></title>
+        <id>https://css-tricks.com/?p=341894</id>
+        <link href="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/"/>
+        <updated>2021-06-10T14:34:22.000Z</updated>
+        <summary type="html"><![CDATA[As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.
+Let’s break those two down and see how they work together.
+The post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Headless CMS with Fauna and Vercel Functions]]></title>
+        <id>https://css-tricks.com/?p=342182</id>
+        <link href="https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/"/>
+        <updated>2021-06-10T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.
+The post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ikeh Akinyemi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to implement i18n in Next.js 🌏]]></title>
         <id>https://daily.dev/blog/internationalization-i18n-in-nextjs</id>
         <link href="https://daily.dev/blog/internationalization-i18n-in-nextjs"/>
         <updated>2021-06-10T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities]]></title>
+        <id>https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4</id>
+        <link href="https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4"/>
+        <updated>2021-06-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
@@ -203,18 +250,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
-        <id>https://css-tricks.com/?p=341572</id>
-        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
-        <updated>2021-06-02T13:35:40.000Z</updated>
-        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
-The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182]]></title>
         <id>https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182</id>
         <link href="https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182"/>
@@ -222,30 +257,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code blocks, but better]]></title>
-        <id>https://css-tricks.com/?p=341720</id>
-        <link href="https://ped.ro/blog/code-blocks-but-better"/>
-        <updated>2021-06-01T22:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
-The post Code blocks, but better appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
-        <id>https://css-tricks.com/?p=341342</id>
-        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
-        <updated>2021-06-01T14:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
-The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Evgeny Klimenchenko</name>
         </author>
     </entry>
     <entry>
@@ -384,16 +395,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/how-to-use-git-bisect-for-debugging"/>
         <updated>2021-05-13T07:25:00.000Z</updated>
         <summary type="html"><![CDATA[Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179]]></title>
-        <id>https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179</id>
-        <link href="https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179"/>
-        <updated>2021-05-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>

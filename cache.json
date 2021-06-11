@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342050",
+          "author": "Chris Coyier",
+          "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
+          "publishedOn": "2021-06-11T00:16:28.000Z",
+          "wordCount": 535,
+          "title": "Put a Background on Open Details Elements"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341894",
+          "author": "Kevin Powell",
+          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
+          "publishedOn": "2021-06-10T14:34:22.000Z",
+          "wordCount": 4277,
+          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342182",
+          "author": "Ikeh Akinyemi",
+          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
+          "publishedOn": "2021-06-10T14:26:47.000Z",
+          "wordCount": 2892,
+          "title": "Building a Headless CMS with Fauna and Vercel Functions"
+        },
+        {
           "id": "https://css-tricks.com/?p=340967",
           "author": "Geoff Graham",
           "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -20,7 +47,7 @@
           "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/targetblank/",
           "publishedOn": "2021-06-09T14:37:31.000Z",
-          "wordCount": 802,
+          "wordCount": 1186,
           "title": "target=blank"
         },
         {
@@ -56,7 +83,7 @@
           "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/vs-code-extensions-for-html/",
           "publishedOn": "2021-06-07T14:13:50.000Z",
-          "wordCount": 1743,
+          "wordCount": 1764,
           "title": "VS Code Extensions for HTML"
         },
         {
@@ -65,7 +92,7 @@
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
           "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1109,
+          "wordCount": 1111,
           "title": "Principles for user-centered front-end development"
         },
         {
@@ -83,7 +110,7 @@
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
           "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 5114,
+          "wordCount": 5226,
           "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-06-02T13:35:53.000Z",
           "wordCount": 4168,
           "title": "A Crash Course in WordPress Block Filters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341572",
-          "author": "Chris Coyier",
-          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
-          "publishedOn": "2021-06-02T13:35:40.000Z",
-          "wordCount": 1057,
-          "title": "Are Custom Properties a “Menu of What Will Change”?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341720",
-          "author": "Chris Coyier",
-          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ped.ro/blog/code-blocks-but-better",
-          "publishedOn": "2021-06-01T22:08:48.000Z",
-          "wordCount": 3202,
-          "title": "Code blocks, but better"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341342",
-          "author": "Evgeny Klimenchenko",
-          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
-          "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 4104,
-          "title": "Front-End Testing is For Everyone"
         }
       ]
     },
@@ -153,8 +153,17 @@
           "description": "Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.",
           "link": "https://daily.dev/blog/internationalization-i18n-in-nextjs",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 2580,
+          "wordCount": 2607,
           "title": "How to implement i18n in Next.js 🌏"
+        },
+        {
+          "id": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
+          "author": null,
+          "description": "In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.",
+          "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
+          "publishedOn": "2021-06-10T12:30:00.000Z",
+          "wordCount": 3004,
+          "title": "Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities"
         },
         {
           "id": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
@@ -162,7 +171,7 @@
           "description": "Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more",
           "link": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
           "publishedOn": "2021-06-09T12:30:00.000Z",
-          "wordCount": 640,
+          "wordCount": 657,
           "title": "Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183"
         },
         {
@@ -171,7 +180,7 @@
           "description": "In this post, we will learn how to use Prisma, an ORM for JavaScript and TypeScript, in a Next.js app.",
           "link": "https://daily.dev/blog/nextjs-with-prisma",
           "publishedOn": "2021-06-07T12:30:00.000Z",
-          "wordCount": 4325,
+          "wordCount": 4352,
           "title": "How to use Prisma in a Next.js app"
         },
         {
@@ -180,7 +189,7 @@
           "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
           "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
           "publishedOn": "2021-06-03T12:00:00.000Z",
-          "wordCount": 2310,
+          "wordCount": 2337,
           "title": "Master code splitting with dynamic imports in Next.js"
         },
         {
@@ -189,7 +198,7 @@
           "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
           "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 623,
+          "wordCount": 640,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         },
         {
@@ -198,7 +207,7 @@
           "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
           "link": "https://daily.dev/blog/caching-in-graphql",
           "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3718,
+          "wordCount": 3735,
           "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
         },
         {
@@ -207,7 +216,7 @@
           "description": "gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
           "publishedOn": "2021-05-31T12:00:00.000Z",
-          "wordCount": 3617,
+          "wordCount": 3634,
           "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
         },
         {
@@ -216,7 +225,7 @@
           "description": "In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
           "publishedOn": "2021-05-27T12:00:00.000Z",
-          "wordCount": 5357,
+          "wordCount": 5374,
           "title": "Build a chat app using gRPC and React"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more",
           "link": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
           "publishedOn": "2021-05-26T12:30:00.000Z",
-          "wordCount": 538,
+          "wordCount": 555,
           "title": "Notion API, Ethereum Development, WWDC21 - Picks #181"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Authenticating users to our application prevents the wrong people from gaining access to our service. Without strong authentication and proper implementation strategies, our service could be compromised. In this article, we would look at how to implement a custom authentication strategy in Fastify.",
           "link": "https://daily.dev/blog/fastify-authentication-strategy",
           "publishedOn": "2021-05-25T12:00:00.000Z",
-          "wordCount": 2432,
+          "wordCount": 2449,
           "title": "Fastify authentication strategy"
         },
         {
@@ -243,7 +252,7 @@
           "description": "So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.",
           "link": "https://daily.dev/blog/grpc-vs-rest",
           "publishedOn": "2021-05-24T12:00:00.000Z",
-          "wordCount": 2649,
+          "wordCount": 2666,
           "title": "gRPC vs. REST: pros and cons and technical comparison"
         },
         {
@@ -252,7 +261,7 @@
           "description": "The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
           "link": "https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021",
           "publishedOn": "2021-05-21T15:00:00.000Z",
-          "wordCount": 2796,
+          "wordCount": 2813,
           "title": "My takeaways from Google I/O Event 2021 as a developer"
         },
         {
@@ -261,7 +270,7 @@
           "description": "gRPC is a robust open-source high-performance RPC framework released by Google in 2015. It is a standardized, general-purpose, and cross-platform RPC infrastructure that provides scalability, performance, and functionality to distributed applications.",
           "link": "https://daily.dev/blog/introduction-to-grpc",
           "publishedOn": "2021-05-20T14:45:00.000Z",
-          "wordCount": 2869,
+          "wordCount": 2886,
           "title": "gRPC: detailed guide to the core concepts"
         },
         {
@@ -270,7 +279,7 @@
           "description": "Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!",
           "link": "https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180",
           "publishedOn": "2021-05-19T12:30:00.000Z",
-          "wordCount": 599,
+          "wordCount": 616,
           "title": "Next-Gen CSS, OSS needs you, testing best practices - Picks #180"
         },
         {
@@ -279,7 +288,7 @@
           "description": "Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.",
           "link": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
           "publishedOn": "2021-05-18T00:30:00.000Z",
-          "wordCount": 1936,
+          "wordCount": 1953,
           "title": "Building modern APIs with Fastify, Graphql, and MongoDB"
         },
         {
@@ -288,7 +297,7 @@
           "description": "Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.",
           "link": "https://daily.dev/blog/subscriptions-in-graphql",
           "publishedOn": "2021-05-17T12:00:00.000Z",
-          "wordCount": 2789,
+          "wordCount": 2806,
           "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
         },
         {
@@ -297,7 +306,7 @@
           "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
           "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
           "publishedOn": "2021-05-14T13:00:00.000Z",
-          "wordCount": 2058,
+          "wordCount": 2075,
           "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
         },
         {
@@ -306,7 +315,7 @@
           "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
           "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
           "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2159,
+          "wordCount": 2176,
           "title": "Building an image gallery with Fastify and React"
         },
         {
@@ -315,17 +324,8 @@
           "description": "Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.",
           "link": "https://daily.dev/blog/how-to-use-git-bisect-for-debugging",
           "publishedOn": "2021-05-13T07:25:00.000Z",
-          "wordCount": 2152,
+          "wordCount": 2169,
           "title": "How to Use Git Bisect for Debugging"
-        },
-        {
-          "id": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
-          "author": null,
-          "description": "How to make money with code, is Docker dead, and finally, Bootstrap 5 is here! All this and more on this week's picks! Check them out.",
-          "link": "https://daily.dev/blog/making-money-with-code-bootstrap-5-is-docker-dead-picks-179",
-          "publishedOn": "2021-05-12T12:30:00.000Z",
-          "wordCount": 573,
-          "title": "Making Money with Code, Bootstrap 5, Is Docker Dead - Picks #179"
         }
       ]
     }
