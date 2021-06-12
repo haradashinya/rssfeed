@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-11T00:40:19.306Z</id>
+    <id>urn:2021-06-12T00:35:46.496Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:40:19.306Z</updated>
+    <updated>2021-06-12T00:35:46.496Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!]]></title>
+        <id>https://css-tricks.com/?p=342429</id>
+        <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
+        <updated>2021-06-11T21:38:48.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
+Perhaps the most noticeable thing there …
+The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
+        <id>https://css-tricks.com/?p=342237</id>
+        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
+        <updated>2021-06-11T21:25:56.000Z</updated>
+        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
+Really Simple Syndication.
+RSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …
+The post The Possibilities of Syndication appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+        <id>https://css-tricks.com/?p=342164</id>
+        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
+        <updated>2021-06-11T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
+Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
+…
+The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
         <id>https://css-tricks.com/?p=342050</id>
@@ -199,19 +240,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
-        <id>https://css-tricks.com/?p=341494</id>
-        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
-        <updated>2021-06-03T14:25:19.000Z</updated>
-        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
-It’ll start running tests, and you’ve immediately got performance charts you can …
-The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Master code splitting with dynamic imports in Next.js]]></title>
         <id>https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs</id>
         <link href="https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs"/>
@@ -219,34 +247,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
-        <id>https://css-tricks.com/?p=341724</id>
-        <link href="https://css-tricks.com/debugging-ios-safari/"/>
-        <updated>2021-06-02T21:15:28.000Z</updated>
-        <summary type="html"><![CDATA[How do I debug Safari on iOS?
-These are my general steps, starting with not even using iOS Safari.
-1. Is this just a small-screen problem?
-Lemme just use the device mode in Chrome quick.
-Note that this does a …
-The post Debugging iOS Safari appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
-        <id>https://css-tricks.com/?p=341442</id>
-        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
-        <updated>2021-06-02T13:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
-The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Dmitry Mayorov</name>
         </author>
     </entry>
     <entry>
@@ -385,16 +385,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react"/>
         <updated>2021-05-13T12:45:00.000Z</updated>
         <summary type="html"><![CDATA[In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Git Bisect for Debugging]]></title>
-        <id>https://daily.dev/blog/how-to-use-git-bisect-for-debugging</id>
-        <link href="https://daily.dev/blog/how-to-use-git-bisect-for-debugging"/>
-        <updated>2021-05-13T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s think about when bisect can be useful. Then we’ll go through a tutorial. Lastly, I’ll cover some advanced features and go over some caveats.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
