@@ -11,7 +11,7 @@
           "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
           "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 689,
+          "wordCount": 876,
           "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
         },
         {
@@ -20,7 +20,7 @@
           "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nRSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/the-possibilities-of-syndication/",
           "publishedOn": "2021-06-11T21:25:56.000Z",
-          "wordCount": 614,
+          "wordCount": 643,
           "title": "The Possibilities of Syndication"
         },
         {
@@ -29,7 +29,7 @@
           "description": "Why would we need to apply shadows to SVG?\nShadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) \n…\nThe post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/",
           "publishedOn": "2021-06-11T14:30:29.000Z",
-          "wordCount": 2432,
+          "wordCount": 2375,
           "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
         },
         {
@@ -38,7 +38,7 @@
           "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
           "publishedOn": "2021-06-11T00:16:28.000Z",
-          "wordCount": 630,
+          "wordCount": 667,
           "title": "Put a Background on Open Details Elements"
         },
         {
@@ -308,15 +308,6 @@
           "publishedOn": "2021-05-14T13:00:00.000Z",
           "wordCount": 2075,
           "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
-        },
-        {
-          "id": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
-          "author": null,
-          "description": "In this article, we would see how Fastify handles file upload as we build an image gallery using Fastify and React. We would work with Cloudinary and Fastify-multer a Fastify alternative to the express middleware multer.",
-          "link": "https://daily.dev/blog/building-an-image-gallery-with-fastify-and-react",
-          "publishedOn": "2021-05-13T12:45:00.000Z",
-          "wordCount": 2176,
-          "title": "Building an image gallery with Fastify and React"
         }
       ]
     }
