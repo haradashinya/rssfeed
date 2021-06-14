@@ -47,7 +47,7 @@
           "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
           "publishedOn": "2021-06-10T14:34:22.000Z",
-          "wordCount": 4490,
+          "wordCount": 4649,
           "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
         },
         {
@@ -83,7 +83,7 @@
           "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
           "publishedOn": "2021-06-08T18:31:08.000Z",
-          "wordCount": 3378,
+          "wordCount": 3431,
           "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
         },
         {
@@ -119,7 +119,7 @@
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
           "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1111,
+          "wordCount": 1112,
           "title": "Principles for user-centered front-end development"
         },
         {
@@ -299,15 +299,6 @@
           "publishedOn": "2021-05-17T12:00:00.000Z",
           "wordCount": 2806,
           "title": "How GraphQL Subscriptions Work: Tips, Best Practices and Examples."
-        },
-        {
-          "id": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
-          "author": null,
-          "description": "In this article, you got to know more about the core concept behind what makes Tailwind CSS a different CSS framework, i.e. the utility classes. You saw how they are formatted, how they work, how they convert to the usual CSS properties.",
-          "link": "https://daily.dev/blog/tailwind-css-the-utility-first-workflow",
-          "publishedOn": "2021-05-14T13:00:00.000Z",
-          "wordCount": 2075,
-          "title": "Tailwind CSS from Zero to Hero - The Utility-First Workflow"
         }
       ]
     }
