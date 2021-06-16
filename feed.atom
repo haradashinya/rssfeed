@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T00:40:58.482Z</id>
+    <id>urn:2021-06-16T00:40:51.213Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T00:40:58.482Z</updated>
+    <updated>2021-06-16T00:40:51.213Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
+        <id>https://css-tricks.com/?p=342198</id>
+        <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
+        <updated>2021-06-15T23:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
+The post Detect Unused Classes in… HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
+        <id>https://css-tricks.com/?p=342519</id>
+        <link href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/"/>
+        <updated>2021-06-15T19:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
+I took the bait and had a look at some of my projects – 
+…
+The post Media Queries in Times of @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
+        <id>https://css-tricks.com/?p=342248</id>
+        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
+        <updated>2021-06-15T14:31:34.000Z</updated>
+        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
+Is it… big? The future …
+The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Telegram Bot with Fastify]]></title>
+        <id>https://daily.dev/blog/fastify-telegram-bot</id>
+        <link href="https://daily.dev/blog/fastify-telegram-bot"/>
+        <updated>2021-06-15T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will be looking at how to build our first telegram bot with Fastify. This bot will be able to crack random jokes through the telegram bot API. We will be using the official Joke API created by David Katz to get our jokes. This is a simple API that returns a random joke.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
         <id>https://css-tricks.com/?p=342294</id>
@@ -204,44 +253,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
-        <id>https://css-tricks.com/?p=341884</id>
-        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
-        <updated>2021-06-08T14:16:07.000Z</updated>
-        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
-At first, the site …
-The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Accessibility]]></title>
-        <id>https://css-tricks.com/?p=341805</id>
-        <link href="https://css-tricks.com/links-on-accessibility/"/>
-        <updated>2021-06-07T19:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
-…
-The post Links on Accessibility appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
-        <id>https://css-tricks.com/?p=340390</id>
-        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
-        <updated>2021-06-07T14:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
-The post VS Code Extensions for HTML appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to use Prisma in a Next.js app]]></title>
         <id>https://daily.dev/blog/nextjs-with-prisma</id>
         <link href="https://daily.dev/blog/nextjs-with-prisma"/>
@@ -367,16 +378,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb"/>
         <updated>2021-05-18T00:30:00.000Z</updated>
         <summary type="html"><![CDATA[Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How GraphQL Subscriptions Work: Tips, Best Practices and Examples.]]></title>
-        <id>https://daily.dev/blog/subscriptions-in-graphql</id>
-        <link href="https://daily.dev/blog/subscriptions-in-graphql"/>
-        <updated>2021-05-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Subscriptions is one of the powerful features of GraphQL. In this guide, I cover all you need to know to start with subscriptions in GraphQL.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
