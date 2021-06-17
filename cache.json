@@ -6,12 +6,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342358",
+          "author": "Chris Coyier",
+          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
+          "publishedOn": "2021-06-16T21:11:02.000Z",
+          "wordCount": 604,
+          "title": "Inline Styles as Classes (lol)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342630",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-16T19:08:33.000Z",
+          "wordCount": 869,
+          "title": "Useful and Useless Code Comments"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342353",
+          "author": "Okiki Ojo",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
+          "publishedOn": "2021-06-16T14:26:58.000Z",
+          "wordCount": 2409,
+          "title": "How I Used the WAAPI to Build an Animation Library"
+        },
+        {
           "id": "https://css-tricks.com/?p=342198",
           "author": "Chris Coyier",
           "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/detect-unused-classes-in-html/",
           "publishedOn": "2021-06-15T23:24:20.000Z",
-          "wordCount": 741,
+          "wordCount": 798,
           "title": "Detect Unused Classes in… HTML"
         },
         {
@@ -20,7 +47,7 @@
           "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
           "publishedOn": "2021-06-15T19:51:32.000Z",
-          "wordCount": 1907,
+          "wordCount": 2234,
           "title": "Media Queries in Times of @container"
         },
         {
@@ -29,7 +56,7 @@
           "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
           "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 1844,
+          "wordCount": 2721,
           "title": "Just How Niche is Headless WordPress?"
         },
         {
@@ -38,7 +65,7 @@
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
           "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 875,
+          "wordCount": 890,
           "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
         },
         {
@@ -92,7 +119,7 @@
           "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
           "publishedOn": "2021-06-11T00:16:28.000Z",
-          "wordCount": 667,
+          "wordCount": 683,
           "title": "Put a Background on Open Details Elements"
         },
         {
@@ -112,33 +139,6 @@
           "publishedOn": "2021-06-10T14:26:47.000Z",
           "wordCount": 3006,
           "title": "Building a Headless CMS with Fauna and Vercel Functions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340967",
-          "author": "Geoff Graham",
-          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
-          "publishedOn": "2021-06-09T20:37:00.000Z",
-          "wordCount": 1539,
-          "title": "A Cornucopia of Container Queries"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341916",
-          "author": "Chris Coyier",
-          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/targetblank/",
-          "publishedOn": "2021-06-09T14:37:31.000Z",
-          "wordCount": 1469,
-          "title": "target=blank"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341982",
-          "author": "Todd Libby",
-          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
-          "publishedOn": "2021-06-08T18:31:08.000Z",
-          "wordCount": 3431,
-          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
         }
       ]
     },
@@ -147,6 +147,15 @@
       "feedUrl": "https://daily.dev/blog/rss.xml",
       "siteUrl": "https://daily.dev",
       "articles": [
+        {
+          "id": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
+          "author": null,
+          "description": "React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!",
+          "link": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
+          "publishedOn": "2021-06-16T12:30:00.000Z",
+          "wordCount": 691,
+          "title": "React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184"
+        },
         {
           "id": "https://daily.dev/blog/fastify-telegram-bot",
           "author": null,
@@ -299,15 +308,6 @@
           "publishedOn": "2021-05-19T12:30:00.000Z",
           "wordCount": 714,
           "title": "Next-Gen CSS, OSS needs you, testing best practices - Picks #180"
-        },
-        {
-          "id": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
-          "author": null,
-          "description": "Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.",
-          "link": "https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb",
-          "publishedOn": "2021-05-18T00:30:00.000Z",
-          "wordCount": 2051,
-          "title": "Building modern APIs with Fastify, Graphql, and MongoDB"
         }
       ]
     }

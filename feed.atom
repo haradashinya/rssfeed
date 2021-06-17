@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-16T00:40:51.213Z</id>
+    <id>urn:2021-06-17T00:39:30.599Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:40:51.213Z</updated>
+    <updated>2021-06-17T00:39:30.599Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
+        <id>https://css-tricks.com/?p=342358</id>
+        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
+        <updated>2021-06-16T21:11:02.000Z</updated>
+        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
+I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
+— Sam 
+
+…
+The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
+        <id>https://css-tricks.com/?p=342630</id>
+        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
+        <updated>2021-06-16T19:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Jim Nielsen: 
+If somebody says a comment isn’t adding any value, I would ask: to whom?
+Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
+Jim showed …
+The post Useful and Useless Code Comments appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
+        <id>https://css-tricks.com/?p=342353</id>
+        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
+        <updated>2021-06-16T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
+The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Okiki Ojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184]]></title>
+        <id>https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184</id>
+        <link href="https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184"/>
+        <updated>2021-06-16T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
         <id>https://css-tricks.com/?p=342198</id>
@@ -204,33 +257,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
-        <id>https://css-tricks.com/?p=340967</id>
-        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
-        <updated>2021-06-09T20:37:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
-The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[target=blank]]></title>
-        <id>https://css-tricks.com/?p=341916</id>
-        <link href="https://css-tricks.com/targetblank/"/>
-        <updated>2021-06-09T14:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
-<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
-</a
-Welp, that’s correct syntax!…
-The post target=blank appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183]]></title>
         <id>https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183</id>
         <link href="https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183"/>
@@ -238,18 +264,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
-        <id>https://css-tricks.com/?p=341982</id>
-        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
-        <updated>2021-06-08T18:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
-The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Todd Libby</name>
         </author>
     </entry>
     <entry>
@@ -368,16 +382,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180"/>
         <updated>2021-05-19T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building modern APIs with Fastify, Graphql, and MongoDB]]></title>
-        <id>https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb</id>
-        <link href="https://daily.dev/blog/building-modern-apis-with-fastify-graphql-and-mongodb"/>
-        <updated>2021-05-18T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Both Fastify and GraphQL are great technologies that offer improved speed, flexibility, and easy code maintainability.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
