@@ -6,12 +6,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341948",
+          "author": "Louis Hoebregts",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
+          "publishedOn": "2021-06-17T14:45:57.000Z",
+          "wordCount": 1554,
+          "title": "Perfect Tooltips With CSS Clipping and Masking"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342257",
+          "author": "ImageEngine",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
+          "publishedOn": "2021-06-17T14:38:42.000Z",
+          "wordCount": 1290,
+          "title": "Start Serving Optimized Images in Vue"
+        },
+        {
           "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
           "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
           "publishedOn": "2021-06-16T21:11:02.000Z",
-          "wordCount": 604,
+          "wordCount": 764,
           "title": "Inline Styles as Classes (lol)"
         },
         {
@@ -38,7 +56,7 @@
           "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/detect-unused-classes-in-html/",
           "publishedOn": "2021-06-15T23:24:20.000Z",
-          "wordCount": 798,
+          "wordCount": 809,
           "title": "Detect Unused Classes in… HTML"
         },
         {
@@ -56,7 +74,7 @@
           "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
           "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 2721,
+          "wordCount": 2796,
           "title": "Just How Niche is Headless WordPress?"
         },
         {
@@ -74,7 +92,7 @@
           "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
           "publishedOn": "2021-06-14T18:20:17.000Z",
-          "wordCount": 730,
+          "wordCount": 771,
           "title": "CSS-Tricks Chronicle XXXX"
         },
         {
@@ -121,24 +139,6 @@
           "publishedOn": "2021-06-11T00:16:28.000Z",
           "wordCount": 683,
           "title": "Put a Background on Open Details Elements"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341894",
-          "author": "Kevin Powell",
-          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
-          "publishedOn": "2021-06-10T14:34:22.000Z",
-          "wordCount": 4695,
-          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342182",
-          "author": "Ikeh Akinyemi",
-          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
-          "publishedOn": "2021-06-10T14:26:47.000Z",
-          "wordCount": 3006,
-          "title": "Building a Headless CMS with Fauna and Vercel Functions"
         }
       ]
     },
@@ -299,15 +299,6 @@
           "publishedOn": "2021-05-20T14:45:00.000Z",
           "wordCount": 2984,
           "title": "gRPC: detailed guide to the core concepts"
-        },
-        {
-          "id": "https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180",
-          "author": null,
-          "description": "Learn about the new CSS container queries, JavaScript testing practices, what you can do for the open-source community, and more!",
-          "link": "https://daily.dev/blog/next-gen-css-oss-needs-you-testing-best-practices-picks-180",
-          "publishedOn": "2021-05-19T12:30:00.000Z",
-          "wordCount": 714,
-          "title": "Next-Gen CSS, OSS needs you, testing best practices - Picks #180"
         }
       ]
     }
