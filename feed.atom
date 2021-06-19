@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T00:39:49.456Z</id>
+    <id>urn:2021-06-19T00:40:20.729Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T00:39:49.456Z</updated>
+    <updated>2021-06-19T00:40:20.729Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
+        <id>https://css-tricks.com/?p=341511</id>
+        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
+        <updated>2021-06-18T20:38:59.000Z</updated>
+        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
+The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Carter Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Typography]]></title>
+        <id>https://css-tricks.com/?p=342326</id>
+        <link href="https://css-tricks.com/links-on-typography-2/"/>
+        <updated>2021-06-18T13:44:17.000Z</updated>
+        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
+…
+The post Links on Typography appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
         <id>https://css-tricks.com/?p=341948</id>
@@ -206,32 +231,6 @@ Really Simple Syndication.
 Update: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. 
 RSS …
 The post The Possibilities of Syndication appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
-        <id>https://css-tricks.com/?p=342164</id>
-        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
-        <updated>2021-06-11T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
-Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
-…
-The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
-        <id>https://css-tricks.com/?p=342050</id>
-        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
-        <updated>2021-06-11T00:16:28.000Z</updated>
-        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
-The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
