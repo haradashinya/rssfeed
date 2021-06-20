@@ -29,7 +29,7 @@
           "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
           "publishedOn": "2021-06-17T14:45:57.000Z",
-          "wordCount": 1650,
+          "wordCount": 1595,
           "title": "Perfect Tooltips With CSS Clipping and Masking"
         },
         {
@@ -101,7 +101,7 @@
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
           "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 937,
+          "wordCount": 890,
           "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
         },
         {
@@ -290,15 +290,6 @@
           "publishedOn": "2021-05-21T15:00:00.000Z",
           "wordCount": 2911,
           "title": "My takeaways from Google I/O Event 2021 as a developer"
-        },
-        {
-          "id": "https://daily.dev/blog/introduction-to-grpc",
-          "author": null,
-          "description": "gRPC is a robust open-source high-performance RPC framework released by Google in 2015. It is a standardized, general-purpose, and cross-platform RPC infrastructure that provides scalability, performance, and functionality to distributed applications.",
-          "link": "https://daily.dev/blog/introduction-to-grpc",
-          "publishedOn": "2021-05-20T14:45:00.000Z",
-          "wordCount": 2984,
-          "title": "gRPC: detailed guide to the core concepts"
         }
       ]
     }
