@@ -65,7 +65,7 @@
           "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
           "publishedOn": "2021-06-16T14:26:58.000Z",
-          "wordCount": 2409,
+          "wordCount": 2416,
           "title": "How I Used the WAAPI to Build an Animation Library"
         },
         {
@@ -153,7 +153,7 @@
           "description": "React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!",
           "link": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
           "publishedOn": "2021-06-16T12:30:00.000Z",
-          "wordCount": 691,
+          "wordCount": 680,
           "title": "React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184"
         },
         {
@@ -162,7 +162,7 @@
           "description": "In this article, we will be looking at how to build our first telegram bot with Fastify. This bot will be able to crack random jokes through the telegram bot API. We will be using the official Joke API created by David Katz to get our jokes. This is a simple API that returns a random joke.",
           "link": "https://daily.dev/blog/fastify-telegram-bot",
           "publishedOn": "2021-06-15T12:30:00.000Z",
-          "wordCount": 1525,
+          "wordCount": 1514,
           "title": "Building a Telegram Bot with Fastify"
         },
         {
@@ -171,7 +171,7 @@
           "description": "In this article, you will get to know what are components in a Tailwind file, how to use them to maximize the developer productivity in your project, and how to extract them to a separate file. Then, we will create our components with the power of React’s nature in our plant’s demo. Finally, we will learn all about production tips and took an exclusive dive into the Tailwind configuration file. Then we make our demo project production-ready!",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-extracting-components-and-setting-up-for-production-part-4-of-4",
           "publishedOn": "2021-06-14T12:30:00.000Z",
-          "wordCount": 3979,
+          "wordCount": 3968,
           "title": "Tailwind CSS from Zero to Hero - Extracting Components and Setting up for Production"
         },
         {
@@ -180,7 +180,7 @@
           "description": "Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.",
           "link": "https://daily.dev/blog/internationalization-i18n-in-nextjs",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 2705,
+          "wordCount": 2694,
           "title": "How to implement i18n in Next.js 🌏"
         },
         {
@@ -189,7 +189,7 @@
           "description": "In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 3091,
+          "wordCount": 3080,
           "title": "Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities"
         },
         {
@@ -198,7 +198,7 @@
           "description": "Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more",
           "link": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
           "publishedOn": "2021-06-09T12:30:00.000Z",
-          "wordCount": 755,
+          "wordCount": 744,
           "title": "Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183"
         },
         {
@@ -207,7 +207,7 @@
           "description": "In this post, we will learn how to use Prisma, an ORM for JavaScript and TypeScript, in a Next.js app.",
           "link": "https://daily.dev/blog/nextjs-with-prisma",
           "publishedOn": "2021-06-07T12:30:00.000Z",
-          "wordCount": 4439,
+          "wordCount": 4428,
           "title": "How to use Prisma in a Next.js app"
         },
         {
@@ -216,7 +216,7 @@
           "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
           "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
           "publishedOn": "2021-06-03T12:00:00.000Z",
-          "wordCount": 2425,
+          "wordCount": 2414,
           "title": "Master code splitting with dynamic imports in Next.js"
         },
         {
@@ -225,7 +225,7 @@
           "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
           "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 738,
+          "wordCount": 727,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         },
         {
@@ -234,7 +234,7 @@
           "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
           "link": "https://daily.dev/blog/caching-in-graphql",
           "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3833,
+          "wordCount": 3822,
           "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
         },
         {
@@ -243,7 +243,7 @@
           "description": "gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
           "publishedOn": "2021-05-31T12:00:00.000Z",
-          "wordCount": 3732,
+          "wordCount": 3721,
           "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
         },
         {
@@ -252,7 +252,7 @@
           "description": "In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
           "publishedOn": "2021-05-27T12:00:00.000Z",
-          "wordCount": 5472,
+          "wordCount": 5461,
           "title": "Build a chat app using gRPC and React"
         },
         {
@@ -261,7 +261,7 @@
           "description": "Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more",
           "link": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
           "publishedOn": "2021-05-26T12:30:00.000Z",
-          "wordCount": 653,
+          "wordCount": 642,
           "title": "Notion API, Ethereum Development, WWDC21 - Picks #181"
         },
         {
@@ -270,7 +270,7 @@
           "description": "Authenticating users to our application prevents the wrong people from gaining access to our service. Without strong authentication and proper implementation strategies, our service could be compromised. In this article, we would look at how to implement a custom authentication strategy in Fastify.",
           "link": "https://daily.dev/blog/fastify-authentication-strategy",
           "publishedOn": "2021-05-25T12:00:00.000Z",
-          "wordCount": 2547,
+          "wordCount": 2536,
           "title": "Fastify authentication strategy"
         },
         {
@@ -279,17 +279,8 @@
           "description": "So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.",
           "link": "https://daily.dev/blog/grpc-vs-rest",
           "publishedOn": "2021-05-24T12:00:00.000Z",
-          "wordCount": 2764,
+          "wordCount": 2753,
           "title": "gRPC vs. REST: pros and cons and technical comparison"
-        },
-        {
-          "id": "https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021",
-          "author": null,
-          "description": "The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.",
-          "link": "https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021",
-          "publishedOn": "2021-05-21T15:00:00.000Z",
-          "wordCount": 2911,
-          "title": "My takeaways from Google I/O Event 2021 as a developer"
         }
       ]
     }

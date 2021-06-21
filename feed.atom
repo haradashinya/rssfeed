@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T00:42:27.906Z</id>
+    <id>urn:2021-06-21T00:41:42.324Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:42:27.906Z</updated>
+    <updated>2021-06-21T00:41:42.324Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -352,16 +352,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://daily.dev/blog/grpc-vs-rest"/>
         <updated>2021-05-24T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My takeaways from Google I/O Event 2021 as a developer]]></title>
-        <id>https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021</id>
-        <link href="https://daily.dev/blog/my-takeaways-from-google-i-o-event-2021"/>
-        <updated>2021-05-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The annual Google IO developer conference kicked off with a two-hour keynote filled with announcements. Here are the highlights.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
