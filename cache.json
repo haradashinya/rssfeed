@@ -6,12 +6,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342887",
+          "author": "Chris Coyier",
+          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/new-responsive/",
+          "publishedOn": "2021-06-21T21:22:33.000Z",
+          "wordCount": 2285,
+          "title": "Are we in a new era of web design? What do we call it?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342448",
+          "author": "Preethi",
+          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
+          "publishedOn": "2021-06-21T14:32:45.000Z",
+          "wordCount": 1598,
+          "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
+        },
+        {
           "id": "https://css-tricks.com/?p=341511",
           "author": "Carter Li",
           "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
           "publishedOn": "2021-06-18T20:38:59.000Z",
-          "wordCount": 974,
+          "wordCount": 1083,
           "title": "Using the `outline` Property as a Collapsable Border"
         },
         {
@@ -29,7 +47,7 @@
           "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
           "publishedOn": "2021-06-17T14:45:57.000Z",
-          "wordCount": 1595,
+          "wordCount": 1691,
           "title": "Perfect Tooltips With CSS Clipping and Masking"
         },
         {
@@ -47,7 +65,7 @@
           "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
           "publishedOn": "2021-06-16T21:11:02.000Z",
-          "wordCount": 1256,
+          "wordCount": 1367,
           "title": "Inline Styles as Classes (lol)"
         },
         {
@@ -92,7 +110,7 @@
           "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
           "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 2869,
+          "wordCount": 2883,
           "title": "Just How Niche is Headless WordPress?"
         },
         {
@@ -101,7 +119,7 @@
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
           "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 890,
+          "wordCount": 970,
           "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
         },
         {
@@ -121,24 +139,6 @@
           "publishedOn": "2021-06-14T13:30:27.000Z",
           "wordCount": 3330,
           "title": "Securing Your Website With Subresource Integrity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342429",
-          "author": "Chris Coyier",
-          "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
-          "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 1155,
-          "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342237",
-          "author": "Chris Coyier",
-          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nUpdate: Lol there are literally two mistakes there. RSS is an initialism not an acronym, and “Really” is an adverb not an adjective. \nRSS …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-possibilities-of-syndication/",
-          "publishedOn": "2021-06-11T21:25:56.000Z",
-          "wordCount": 734,
-          "title": "The Possibilities of Syndication"
         }
       ]
     },
