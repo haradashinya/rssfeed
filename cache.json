@@ -6,9 +6,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342930",
+          "author": "Chris Coyier",
+          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
+          "publishedOn": "2021-06-22T21:20:20.000Z",
+          "wordCount": 687,
+          "title": "inherit, initial, unset, revert"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342634",
+          "author": "Geoff Rich",
+          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
+          "publishedOn": "2021-06-22T14:37:50.000Z",
+          "wordCount": 3090,
+          "title": "Using Custom Elements in Svelte"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342925",
+          "author": "Chris Coyier",
+          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
+          "publishedOn": "2021-06-22T14:33:41.000Z",
+          "wordCount": 1497,
+          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
+        },
+        {
           "id": "https://css-tricks.com/?p=342887",
           "author": "Chris Coyier",
-          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://web.dev/new-responsive/",
           "publishedOn": "2021-06-21T21:22:33.000Z",
           "wordCount": 2285,
@@ -17,7 +44,7 @@
         {
           "id": "https://css-tricks.com/?p=342448",
           "author": "Preethi",
-          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
           "publishedOn": "2021-06-21T14:32:45.000Z",
           "wordCount": 1598,
@@ -26,16 +53,16 @@
         {
           "id": "https://css-tricks.com/?p=341511",
           "author": "Carter Li",
-          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
           "publishedOn": "2021-06-18T20:38:59.000Z",
-          "wordCount": 1083,
+          "wordCount": 1130,
           "title": "Using the `outline` Property as a Collapsable Border"
         },
         {
           "id": "https://css-tricks.com/?p=342326",
           "author": "Chris Coyier",
-          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/links-on-typography-2/",
           "publishedOn": "2021-06-18T13:44:17.000Z",
           "wordCount": 784,
@@ -44,7 +71,7 @@
         {
           "id": "https://css-tricks.com/?p=341948",
           "author": "Louis Hoebregts",
-          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
           "publishedOn": "2021-06-17T14:45:57.000Z",
           "wordCount": 1691,
@@ -53,7 +80,7 @@
         {
           "id": "https://css-tricks.com/?p=342257",
           "author": "ImageEngine",
-          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
           "publishedOn": "2021-06-17T14:38:42.000Z",
           "wordCount": 1309,
@@ -62,16 +89,16 @@
         {
           "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
-          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
           "publishedOn": "2021-06-16T21:11:02.000Z",
-          "wordCount": 1367,
+          "wordCount": 1552,
           "title": "Inline Styles as Classes (lol)"
         },
         {
           "id": "https://css-tricks.com/?p=342630",
           "author": "Chris Coyier",
-          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
           "publishedOn": "2021-06-16T19:08:33.000Z",
           "wordCount": 869,
@@ -80,7 +107,7 @@
         {
           "id": "https://css-tricks.com/?p=342353",
           "author": "Okiki Ojo",
-          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
           "publishedOn": "2021-06-16T14:26:58.000Z",
           "wordCount": 2416,
@@ -89,7 +116,7 @@
         {
           "id": "https://css-tricks.com/?p=342198",
           "author": "Chris Coyier",
-          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/detect-unused-classes-in-html/",
           "publishedOn": "2021-06-15T23:24:20.000Z",
           "wordCount": 809,
@@ -98,47 +125,20 @@
         {
           "id": "https://css-tricks.com/?p=342519",
           "author": "Chris Coyier",
-          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
           "publishedOn": "2021-06-15T19:51:32.000Z",
-          "wordCount": 2234,
+          "wordCount": 2315,
           "title": "Media Queries in Times of @container"
         },
         {
           "id": "https://css-tricks.com/?p=342248",
           "author": "Chris Coyier",
-          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
           "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 2883,
+          "wordCount": 2869,
           "title": "Just How Niche is Headless WordPress?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342294",
-          "author": "Chris Coyier",
-          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
-          "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 970,
-          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342229",
-          "author": "Chris Coyier",
-          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
-          "publishedOn": "2021-06-14T18:20:17.000Z",
-          "wordCount": 771,
-          "title": "CSS-Tricks Chronicle XXXX"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342070",
-          "author": "Khari McMillian",
-          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
-          "publishedOn": "2021-06-14T13:30:27.000Z",
-          "wordCount": 3330,
-          "title": "Securing Your Website With Subresource Integrity"
         }
       ]
     },
@@ -272,15 +272,6 @@
           "publishedOn": "2021-05-25T12:00:00.000Z",
           "wordCount": 2536,
           "title": "Fastify authentication strategy"
-        },
-        {
-          "id": "https://daily.dev/blog/grpc-vs-rest",
-          "author": null,
-          "description": "So is gRPC better than REST? No, I think you choose the one that your use-case demands. Learn when it's best to use REST and when you should choose gRPC.",
-          "link": "https://daily.dev/blog/grpc-vs-rest",
-          "publishedOn": "2021-05-24T12:00:00.000Z",
-          "wordCount": 2753,
-          "title": "gRPC vs. REST: pros and cons and technical comparison"
         }
       ]
     }
