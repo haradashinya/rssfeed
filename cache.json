@@ -6,12 +6,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342818",
+          "author": "Jay Hoffmann",
+          "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-9-community/",
+          "publishedOn": "2021-06-24T14:30:11.000Z",
+          "wordCount": 6342,
+          "title": "Chapter 9: Community"
+        },
+        {
           "id": "https://css-tricks.com/?p=343076",
           "author": "Chris Coyier",
           "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/",
           "publishedOn": "2021-06-23T21:37:14.000Z",
-          "wordCount": 1325,
+          "wordCount": 1540,
           "title": "TablesNG — Improvements to table rendering in Chromium"
         },
         {
@@ -20,7 +29,7 @@
           "description": "The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…\nThe post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/",
           "publishedOn": "2021-06-23T19:10:54.000Z",
-          "wordCount": 1244,
+          "wordCount": 1257,
           "title": "Using Performant Next-Gen Images in CSS with image-set"
         },
         {
@@ -38,7 +47,7 @@
           "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inherit-initial-unset-revert/",
           "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 687,
+          "wordCount": 708,
           "title": "inherit, initial, unset, revert"
         },
         {
@@ -56,7 +65,7 @@
           "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
           "publishedOn": "2021-06-22T14:33:41.000Z",
-          "wordCount": 3340,
+          "wordCount": 3488,
           "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
         },
         {
@@ -130,15 +139,6 @@
           "publishedOn": "2021-06-16T19:08:33.000Z",
           "wordCount": 870,
           "title": "Useful and Useless Code Comments"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342353",
-          "author": "Okiki Ojo",
-          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
-          "publishedOn": "2021-06-16T14:26:58.000Z",
-          "wordCount": 2416,
-          "title": "How I Used the WAAPI to Build an Animation Library"
         }
       ]
     },
@@ -148,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/untangle-your-web-development-with-snowpack",
+          "author": null,
+          "description": "We'll talk about how to create your own React app from scratch. No CRA needed leveraging the power of a faster, better build tool called Snowpack.",
+          "link": "https://daily.dev/blog/untangle-your-web-development-with-snowpack",
+          "publishedOn": "2021-06-24T16:00:00.000Z",
+          "wordCount": 2066,
+          "title": "Untangle your web development with Snowpack"
+        },
+        {
           "id": "https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185",
           "author": null,
           "description": "In case you slept through this week and didn't hear about all the goodies here's a recap of everything that happened",
           "link": "https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185",
           "publishedOn": "2021-06-23T12:30:00.000Z",
-          "wordCount": 731,
+          "wordCount": 715,
           "title": "React 18, Next.js 11, DDD, face-api - Picks 185"
         },
         {
@@ -162,7 +171,7 @@
           "description": "React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!",
           "link": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
           "publishedOn": "2021-06-16T12:30:00.000Z",
-          "wordCount": 680,
+          "wordCount": 664,
           "title": "React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184"
         },
         {
@@ -171,7 +180,7 @@
           "description": "In this article, we will be looking at how to build our first telegram bot with Fastify. This bot will be able to crack random jokes through the telegram bot API. We will be using the official Joke API created by David Katz to get our jokes. This is a simple API that returns a random joke.",
           "link": "https://daily.dev/blog/fastify-telegram-bot",
           "publishedOn": "2021-06-15T12:30:00.000Z",
-          "wordCount": 1514,
+          "wordCount": 1526,
           "title": "Building a Telegram Bot with Fastify"
         },
         {
@@ -180,7 +189,7 @@
           "description": "In this article, you will get to know what are components in a Tailwind file, how to use them to maximize the developer productivity in your project, and how to extract them to a separate file. Then, we will create our components with the power of React’s nature in our plant’s demo. Finally, we will learn all about production tips and took an exclusive dive into the Tailwind configuration file. Then we make our demo project production-ready!",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-extracting-components-and-setting-up-for-production-part-4-of-4",
           "publishedOn": "2021-06-14T12:30:00.000Z",
-          "wordCount": 3968,
+          "wordCount": 3980,
           "title": "Tailwind CSS from Zero to Hero - Extracting Components and Setting up for Production"
         },
         {
@@ -189,7 +198,7 @@
           "description": "Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.",
           "link": "https://daily.dev/blog/internationalization-i18n-in-nextjs",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 2694,
+          "wordCount": 2678,
           "title": "How to implement i18n in Next.js 🌏"
         },
         {
@@ -198,7 +207,7 @@
           "description": "In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 3080,
+          "wordCount": 3092,
           "title": "Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities"
         },
         {
@@ -207,7 +216,7 @@
           "description": "Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more",
           "link": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
           "publishedOn": "2021-06-09T12:30:00.000Z",
-          "wordCount": 744,
+          "wordCount": 728,
           "title": "Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183"
         },
         {
@@ -216,7 +225,7 @@
           "description": "In this post, we will learn how to use Prisma, an ORM for JavaScript and TypeScript, in a Next.js app.",
           "link": "https://daily.dev/blog/nextjs-with-prisma",
           "publishedOn": "2021-06-07T12:30:00.000Z",
-          "wordCount": 4428,
+          "wordCount": 4412,
           "title": "How to use Prisma in a Next.js app"
         },
         {
@@ -225,7 +234,7 @@
           "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
           "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
           "publishedOn": "2021-06-03T12:00:00.000Z",
-          "wordCount": 2414,
+          "wordCount": 2398,
           "title": "Master code splitting with dynamic imports in Next.js"
         },
         {
@@ -234,7 +243,7 @@
           "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
           "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 727,
+          "wordCount": 711,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
           "link": "https://daily.dev/blog/caching-in-graphql",
           "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3822,
+          "wordCount": 3806,
           "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
         },
         {
@@ -252,7 +261,7 @@
           "description": "gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
           "publishedOn": "2021-05-31T12:00:00.000Z",
-          "wordCount": 3721,
+          "wordCount": 3705,
           "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
         },
         {
@@ -261,17 +270,8 @@
           "description": "In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
           "publishedOn": "2021-05-27T12:00:00.000Z",
-          "wordCount": 5461,
+          "wordCount": 5445,
           "title": "Build a chat app using gRPC and React"
-        },
-        {
-          "id": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
-          "author": null,
-          "description": "Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more",
-          "link": "https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181",
-          "publishedOn": "2021-05-26T12:30:00.000Z",
-          "wordCount": 642,
-          "title": "Notion API, Ethereum Development, WWDC21 - Picks #181"
         }
       ]
     }

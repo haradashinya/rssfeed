@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T00:31:45.283Z</id>
+    <id>urn:2021-06-25T00:43:37.338Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:31:45.283Z</updated>
+    <updated>2021-06-25T00:43:37.339Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untangle your web development with Snowpack]]></title>
+        <id>https://daily.dev/blog/untangle-your-web-development-with-snowpack</id>
+        <link href="https://daily.dev/blog/untangle-your-web-development-with-snowpack"/>
+        <updated>2021-06-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We'll talk about how to create your own React app from scratch. No CRA needed leveraging the power of a faster, better build tool called Snowpack.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 9: Community]]></title>
+        <id>https://css-tricks.com/?p=342818</id>
+        <link href="https://css-tricks.com/chapter-9-community/"/>
+        <updated>2021-06-24T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.
+We have decided to discontinue the process of allowing new customers to sign up 
+…
+The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jay Hoffmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TablesNG — Improvements to table rendering in Chromium]]></title>
         <id>https://css-tricks.com/?p=343076</id>
@@ -180,17 +203,6 @@ The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
-        <id>https://css-tricks.com/?p=342353</id>
-        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
-        <updated>2021-06-16T14:26:58.000Z</updated>
-        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
-The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Okiki Ojo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184]]></title>
         <id>https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184</id>
         <link href="https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184"/>
@@ -306,16 +318,6 @@ The post How I Used the WAAPI to Build an Animation Library appeared first on CS
         <link href="https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs"/>
         <updated>2021-05-27T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion API, Ethereum Development, WWDC21 - Picks #181]]></title>
-        <id>https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181</id>
-        <link href="https://daily.dev/blog/notion-api-ethereum-development-wwdc21-picks-181"/>
-        <updated>2021-05-26T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Notion API is out, learn Ethereum development, RSVP to WWDC 21 and more]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
