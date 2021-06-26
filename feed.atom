@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T00:43:37.338Z</id>
+    <id>urn:2021-06-26T00:39:11.920Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:43:37.339Z</updated>
+    <updated>2021-06-26T00:39:11.920Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untangle your web development with Snowpack]]></title>
         <id>https://daily.dev/blog/untangle-your-web-development-with-snowpack</id>
@@ -174,35 +197,6 @@ The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
-        <id>https://css-tricks.com/?p=342358</id>
-        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
-        <updated>2021-06-16T21:11:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
-I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
-— Sam 
-
-…
-The post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
-        <id>https://css-tricks.com/?p=342630</id>
-        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
-        <updated>2021-06-16T19:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen: 
-If somebody says a comment isn’t adding any value, I would ask: to whom?
-Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
-Jim showed …
-The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184]]></title>
         <id>https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184</id>
         <link href="https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184"/>
@@ -308,16 +302,6 @@ The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can 
         <link href="https://daily.dev/blog/build-a-grpc-service-in-nodejs"/>
         <updated>2021-05-31T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a chat app using gRPC and React]]></title>
-        <id>https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs</id>
-        <link href="https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs"/>
-        <updated>2021-05-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>

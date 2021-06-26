@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342718",
+          "author": "Chris Coyier",
+          "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/custom-property-brain-twisters/",
+          "publishedOn": "2021-06-25T18:39:46.000Z",
+          "wordCount": 652,
+          "title": "Custom Property Brain Twisters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342911",
+          "author": "Georgi Nikoloff",
+          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
+          "publishedOn": "2021-06-25T14:33:33.000Z",
+          "wordCount": 993,
+          "title": "How to Cancel Pending API Requests to Show Correct Data"
+        },
+        {
           "id": "https://css-tricks.com/?p=342818",
           "author": "Jay Hoffmann",
           "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -38,7 +56,7 @@
           "description": "PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …\nThe post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/weak-declaration/",
           "publishedOn": "2021-06-23T14:27:14.000Z",
-          "wordCount": 704,
+          "wordCount": 760,
           "title": "“Weak declaration”"
         },
         {
@@ -47,7 +65,7 @@
           "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inherit-initial-unset-revert/",
           "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 708,
+          "wordCount": 731,
           "title": "inherit, initial, unset, revert"
         },
         {
@@ -121,24 +139,6 @@
           "publishedOn": "2021-06-17T14:38:42.000Z",
           "wordCount": 1309,
           "title": "Start Serving Optimized Images in Vue"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342358",
-          "author": "Chris Coyier",
-          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
-          "publishedOn": "2021-06-16T21:11:02.000Z",
-          "wordCount": 1584,
-          "title": "Inline Styles as Classes (lol)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342630",
-          "author": "Chris Coyier",
-          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-          "publishedOn": "2021-06-16T19:08:33.000Z",
-          "wordCount": 870,
-          "title": "Useful and Useless Code Comments"
         }
       ]
     },
@@ -263,15 +263,6 @@
           "publishedOn": "2021-05-31T12:00:00.000Z",
           "wordCount": 3705,
           "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
-        },
-        {
-          "id": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
-          "author": null,
-          "description": "In this tutorial, we will demonstrate how to use gRPC by building a chat app. We will describe in detail how you can set up a gRPC service and then communicate with it from a React app. The chat messages sending back and forth will be handled by a gRPC service. Let's see how it's done, but first, let's learn what gRPC is.",
-          "link": "https://daily.dev/blog/build-a-chat-app-using-grpc-and-reactjs",
-          "publishedOn": "2021-05-27T12:00:00.000Z",
-          "wordCount": 5445,
-          "title": "Build a chat app using gRPC and React"
         }
       ]
     }
