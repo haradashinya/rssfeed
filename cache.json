@@ -21,7 +21,12 @@
           "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
           "publishedOn": "2021-06-25T14:33:33.000Z",
           "wordCount": 993,
-          "title": "How to Cancel Pending API Requests to Show Correct Data"
+          "title": "How to Cancel Pending API Requests to Show Correct Data",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2021/06/steam-api-deals.png,src:https://css-tricks.com/wp-content/uploads/2021/06/pending-networks-problem.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          }
         },
         {
           "id": "https://css-tricks.com/?p=342818",
@@ -57,7 +62,12 @@
           "link": "https://css-tricks.com/weak-declaration/",
           "publishedOn": "2021-06-23T14:27:14.000Z",
           "wordCount": 760,
-          "title": "“Weak declaration”"
+          "title": "“Weak declaration”",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2021/06/CleanShot-2021-06-16-at-07.31.32.mp4",
+            "length": "4189357",
+            "type": "video/mp4"
+          }
         },
         {
           "id": "https://css-tricks.com/?p=342930",
