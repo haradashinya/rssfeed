@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-28T00:42:48.558Z</id>
+    <id>urn:2021-06-29T00:40:17.847Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T00:42:48.558Z</updated>
+    <updated>2021-06-29T00:40:17.847Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[System *Things]]></title>
+        <id>https://css-tricks.com/?p=343040</id>
+        <link href="https://css-tricks.com/system-things/"/>
+        <updated>2021-06-28T22:14:22.000Z</updated>
+        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
+color: OldLace;
+background: rebeccapurple;
+I guess you’d just call those “named colors” in CSS. 
+Those aren’t the only kind of named colors there are though. Some of them …
+The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
+        <id>https://css-tricks.com/?p=343139</id>
+        <link href="https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/"/>
+        <updated>2021-06-28T21:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …
+The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
+        <id>https://css-tricks.com/?p=342971</id>
+        <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
+        <updated>2021-06-28T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.
+Recently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …
+The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ryan Mulligan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
+        <id>https://css-tricks.com/?p=343072</id>
+        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
+        <updated>2021-06-28T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[To make some terminology clear here:
+CMS = Content Management System
+CRM = Customer Relationship Management
+Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
+The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New with the Composition API in VueJS]]></title>
+        <id>https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs</id>
+        <link href="https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs"/>
+        <updated>2021-06-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Composition API is a brand new code structure for writing Vue components to improve code reuse and readability.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
         <id>https://css-tricks.com/?p=342718</id>
@@ -147,53 +209,6 @@ The post Are we in a new era of web design? What do we call it? appeared first o
 The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
-        <id>https://css-tricks.com/?p=341511</id>
-        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
-        <updated>2021-06-18T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
-The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Carter Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=342326</id>
-        <link href="https://css-tricks.com/links-on-typography-2/"/>
-        <updated>2021-06-18T13:44:17.000Z</updated>
-        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
-…
-The post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
-        <id>https://css-tricks.com/?p=341948</id>
-        <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
-        <updated>2021-06-17T14:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
-Those …
-The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Louis Hoebregts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start Serving Optimized Images in Vue]]></title>
-        <id>https://css-tricks.com/?p=342257</id>
-        <link href="https://css-tricks.com/start-serving-optimized-images-in-vue/"/>
-        <updated>2021-06-17T14:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
-However, web performance is also a growing problem for most websites. And images are at the heart of many web …
-The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343040",
+          "author": "Chris Coyier",
+          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/system-things/",
+          "publishedOn": "2021-06-28T22:14:22.000Z",
+          "wordCount": 959,
+          "title": "System *Things"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343139",
+          "author": "Chris Coyier",
+          "description": "Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …\nThe post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "publishedOn": "2021-06-28T21:17:26.000Z",
+          "wordCount": 937,
+          "title": "Working around the viewport-based fluid typography bug in Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342971",
+          "author": "Ryan Mulligan",
+          "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
+          "publishedOn": "2021-06-28T14:25:33.000Z",
+          "wordCount": 2338,
+          "title": "Positioning Overlay Content with CSS Grid"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343072",
+          "author": "Chris Coyier",
+          "description": "To make some terminology clear here:\nCMS = Content Management System\nCRM = Customer Relationship Management\nBoth are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …\nThe post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/",
+          "publishedOn": "2021-06-28T13:29:00.000Z",
+          "wordCount": 738,
+          "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
+        },
+        {
           "id": "https://css-tricks.com/?p=342718",
           "author": "Chris Coyier",
           "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -20,7 +56,7 @@
           "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
           "publishedOn": "2021-06-25T14:33:33.000Z",
-          "wordCount": 993,
+          "wordCount": 1103,
           "title": "How to Cancel Pending API Requests to Show Correct Data",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2021/06/steam-api-deals.png,src:https://css-tricks.com/wp-content/uploads/2021/06/pending-networks-problem.mp4",
@@ -52,7 +88,7 @@
           "description": "The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…\nThe post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/",
           "publishedOn": "2021-06-23T19:10:54.000Z",
-          "wordCount": 1257,
+          "wordCount": 1275,
           "title": "Using Performant Next-Gen Images in CSS with image-set"
         },
         {
@@ -75,7 +111,7 @@
           "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/inherit-initial-unset-revert/",
           "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 708,
+          "wordCount": 799,
           "title": "inherit, initial, unset, revert"
         },
         {
@@ -93,7 +129,7 @@
           "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
           "publishedOn": "2021-06-22T14:33:41.000Z",
-          "wordCount": 3488,
+          "wordCount": 3563,
           "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
         },
         {
@@ -102,7 +138,7 @@
           "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://web.dev/new-responsive/",
           "publishedOn": "2021-06-21T21:22:33.000Z",
-          "wordCount": 2285,
+          "wordCount": 2304,
           "title": "Are we in a new era of web design? What do we call it?"
         },
         {
@@ -113,42 +149,6 @@
           "publishedOn": "2021-06-21T14:32:45.000Z",
           "wordCount": 1598,
           "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341511",
-          "author": "Carter Li",
-          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
-          "publishedOn": "2021-06-18T20:38:59.000Z",
-          "wordCount": 1130,
-          "title": "Using the `outline` Property as a Collapsable Border"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342326",
-          "author": "Chris Coyier",
-          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-typography-2/",
-          "publishedOn": "2021-06-18T13:44:17.000Z",
-          "wordCount": 815,
-          "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341948",
-          "author": "Louis Hoebregts",
-          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
-          "publishedOn": "2021-06-17T14:45:57.000Z",
-          "wordCount": 1691,
-          "title": "Perfect Tooltips With CSS Clipping and Masking"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342257",
-          "author": "ImageEngine",
-          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
-          "publishedOn": "2021-06-17T14:38:42.000Z",
-          "wordCount": 1309,
-          "title": "Start Serving Optimized Images in Vue"
         }
       ]
     },
@@ -158,12 +158,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs",
+          "author": null,
+          "description": "Composition API is a brand new code structure for writing Vue components to improve code reuse and readability.",
+          "link": "https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs",
+          "publishedOn": "2021-06-28T12:00:00.000Z",
+          "wordCount": 1365,
+          "title": "What's New with the Composition API in VueJS"
+        },
+        {
           "id": "https://daily.dev/blog/untangle-your-web-development-with-snowpack",
           "author": null,
           "description": "We'll talk about how to create your own React app from scratch. No CRA needed leveraging the power of a faster, better build tool called Snowpack.",
           "link": "https://daily.dev/blog/untangle-your-web-development-with-snowpack",
           "publishedOn": "2021-06-24T16:00:00.000Z",
-          "wordCount": 2066,
+          "wordCount": 2036,
           "title": "Untangle your web development with Snowpack"
         },
         {
@@ -172,7 +181,7 @@
           "description": "In case you slept through this week and didn't hear about all the goodies here's a recap of everything that happened",
           "link": "https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185",
           "publishedOn": "2021-06-23T12:30:00.000Z",
-          "wordCount": 715,
+          "wordCount": 649,
           "title": "React 18, Next.js 11, DDD, face-api - Picks 185"
         },
         {
@@ -181,7 +190,7 @@
           "description": "React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!",
           "link": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
           "publishedOn": "2021-06-16T12:30:00.000Z",
-          "wordCount": 664,
+          "wordCount": 598,
           "title": "React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184"
         },
         {
@@ -190,7 +199,7 @@
           "description": "In this article, we will be looking at how to build our first telegram bot with Fastify. This bot will be able to crack random jokes through the telegram bot API. We will be using the official Joke API created by David Katz to get our jokes. This is a simple API that returns a random joke.",
           "link": "https://daily.dev/blog/fastify-telegram-bot",
           "publishedOn": "2021-06-15T12:30:00.000Z",
-          "wordCount": 1526,
+          "wordCount": 1496,
           "title": "Building a Telegram Bot with Fastify"
         },
         {
@@ -199,7 +208,7 @@
           "description": "In this article, you will get to know what are components in a Tailwind file, how to use them to maximize the developer productivity in your project, and how to extract them to a separate file. Then, we will create our components with the power of React’s nature in our plant’s demo. Finally, we will learn all about production tips and took an exclusive dive into the Tailwind configuration file. Then we make our demo project production-ready!",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-extracting-components-and-setting-up-for-production-part-4-of-4",
           "publishedOn": "2021-06-14T12:30:00.000Z",
-          "wordCount": 3980,
+          "wordCount": 3950,
           "title": "Tailwind CSS from Zero to Hero - Extracting Components and Setting up for Production"
         },
         {
@@ -208,7 +217,7 @@
           "description": "Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.",
           "link": "https://daily.dev/blog/internationalization-i18n-in-nextjs",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 2678,
+          "wordCount": 2612,
           "title": "How to implement i18n in Next.js 🌏"
         },
         {
@@ -217,7 +226,7 @@
           "description": "In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 3092,
+          "wordCount": 3026,
           "title": "Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities"
         },
         {
@@ -226,7 +235,7 @@
           "description": "Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more",
           "link": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
           "publishedOn": "2021-06-09T12:30:00.000Z",
-          "wordCount": 728,
+          "wordCount": 662,
           "title": "Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183"
         },
         {
@@ -235,7 +244,7 @@
           "description": "In this post, we will learn how to use Prisma, an ORM for JavaScript and TypeScript, in a Next.js app.",
           "link": "https://daily.dev/blog/nextjs-with-prisma",
           "publishedOn": "2021-06-07T12:30:00.000Z",
-          "wordCount": 4412,
+          "wordCount": 4346,
           "title": "How to use Prisma in a Next.js app"
         },
         {
@@ -244,7 +253,7 @@
           "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
           "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
           "publishedOn": "2021-06-03T12:00:00.000Z",
-          "wordCount": 2398,
+          "wordCount": 2332,
           "title": "Master code splitting with dynamic imports in Next.js"
         },
         {
@@ -253,7 +262,7 @@
           "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
           "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 711,
+          "wordCount": 645,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         },
         {
@@ -262,7 +271,7 @@
           "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
           "link": "https://daily.dev/blog/caching-in-graphql",
           "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3806,
+          "wordCount": 3740,
           "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
         },
         {
@@ -271,7 +280,7 @@
           "description": "gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.",
           "link": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
           "publishedOn": "2021-05-31T12:00:00.000Z",
-          "wordCount": 3705,
+          "wordCount": 3639,
           "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
         }
       ]
