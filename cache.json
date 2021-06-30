@@ -6,12 +6,39 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343470",
+          "author": "Chris Coyier",
+          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
+          "publishedOn": "2021-06-29T22:43:50.000Z",
+          "wordCount": 672,
+          "title": "What does `font: 110%/1.4 system-ui` mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343260",
+          "author": "Chris Coyier",
+          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
+          "publishedOn": "2021-06-29T20:25:00.000Z",
+          "wordCount": 3316,
+          "title": "Chromium spelling and grammar features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342736",
+          "author": "Chris Coyier",
+          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
+          "publishedOn": "2021-06-29T14:37:21.000Z",
+          "wordCount": 747,
+          "title": ":nth-child Between Two Fixed Indexes"
+        },
+        {
           "id": "https://css-tricks.com/?p=343040",
           "author": "Chris Coyier",
-          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "description": "I think we’re all largely aware of colors like this:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them are …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/system-things/",
           "publishedOn": "2021-06-28T22:14:22.000Z",
-          "wordCount": 959,
+          "wordCount": 1225,
           "title": "System *Things"
         },
         {
@@ -29,7 +56,7 @@
           "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
           "publishedOn": "2021-06-28T14:25:33.000Z",
-          "wordCount": 2338,
+          "wordCount": 2356,
           "title": "Positioning Overlay Content with CSS Grid"
         },
         {
@@ -122,33 +149,6 @@
           "publishedOn": "2021-06-22T14:37:50.000Z",
           "wordCount": 3090,
           "title": "Using Custom Elements in Svelte"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342925",
-          "author": "Chris Coyier",
-          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
-          "publishedOn": "2021-06-22T14:33:41.000Z",
-          "wordCount": 3563,
-          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342887",
-          "author": "Chris Coyier",
-          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/new-responsive/",
-          "publishedOn": "2021-06-21T21:22:33.000Z",
-          "wordCount": 2304,
-          "title": "Are we in a new era of web design? What do we call it?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342448",
-          "author": "Preethi",
-          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
-          "publishedOn": "2021-06-21T14:32:45.000Z",
-          "wordCount": 1598,
-          "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
         }
       ]
     },
@@ -158,12 +158,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/different-state-management-patterns-for-vuejs",
+          "author": null,
+          "description": "State management is at the core of any frontend framework. There are several options when it comes to VueJS. This article will explore these patterns helping developers to choose the right one depending on the use case.",
+          "link": "https://daily.dev/blog/different-state-management-patterns-for-vuejs",
+          "publishedOn": "2021-06-29T12:00:00.000Z",
+          "wordCount": 1549,
+          "title": "Different State Management Patterns for VueJS"
+        },
+        {
           "id": "https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs",
           "author": null,
           "description": "Composition API is a brand new code structure for writing Vue components to improve code reuse and readability.",
           "link": "https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs",
           "publishedOn": "2021-06-28T12:00:00.000Z",
-          "wordCount": 1365,
+          "wordCount": 1316,
           "title": "What's New with the Composition API in VueJS"
         },
         {
@@ -172,7 +181,7 @@
           "description": "We'll talk about how to create your own React app from scratch. No CRA needed leveraging the power of a faster, better build tool called Snowpack.",
           "link": "https://daily.dev/blog/untangle-your-web-development-with-snowpack",
           "publishedOn": "2021-06-24T16:00:00.000Z",
-          "wordCount": 2036,
+          "wordCount": 1987,
           "title": "Untangle your web development with Snowpack"
         },
         {
@@ -181,7 +190,7 @@
           "description": "In case you slept through this week and didn't hear about all the goodies here's a recap of everything that happened",
           "link": "https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185",
           "publishedOn": "2021-06-23T12:30:00.000Z",
-          "wordCount": 649,
+          "wordCount": 629,
           "title": "React 18, Next.js 11, DDD, face-api - Picks 185"
         },
         {
@@ -190,7 +199,7 @@
           "description": "React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!",
           "link": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
           "publishedOn": "2021-06-16T12:30:00.000Z",
-          "wordCount": 598,
+          "wordCount": 578,
           "title": "React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184"
         },
         {
@@ -199,7 +208,7 @@
           "description": "In this article, we will be looking at how to build our first telegram bot with Fastify. This bot will be able to crack random jokes through the telegram bot API. We will be using the official Joke API created by David Katz to get our jokes. This is a simple API that returns a random joke.",
           "link": "https://daily.dev/blog/fastify-telegram-bot",
           "publishedOn": "2021-06-15T12:30:00.000Z",
-          "wordCount": 1496,
+          "wordCount": 1447,
           "title": "Building a Telegram Bot with Fastify"
         },
         {
@@ -208,7 +217,7 @@
           "description": "In this article, you will get to know what are components in a Tailwind file, how to use them to maximize the developer productivity in your project, and how to extract them to a separate file. Then, we will create our components with the power of React’s nature in our plant’s demo. Finally, we will learn all about production tips and took an exclusive dive into the Tailwind configuration file. Then we make our demo project production-ready!",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-extracting-components-and-setting-up-for-production-part-4-of-4",
           "publishedOn": "2021-06-14T12:30:00.000Z",
-          "wordCount": 3950,
+          "wordCount": 3930,
           "title": "Tailwind CSS from Zero to Hero - Extracting Components and Setting up for Production"
         },
         {
@@ -217,7 +226,7 @@
           "description": "Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.",
           "link": "https://daily.dev/blog/internationalization-i18n-in-nextjs",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 2612,
+          "wordCount": 2592,
           "title": "How to implement i18n in Next.js 🌏"
         },
         {
@@ -226,7 +235,7 @@
           "description": "In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 3026,
+          "wordCount": 3006,
           "title": "Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities"
         },
         {
@@ -235,7 +244,7 @@
           "description": "Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more",
           "link": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
           "publishedOn": "2021-06-09T12:30:00.000Z",
-          "wordCount": 662,
+          "wordCount": 642,
           "title": "Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183"
         },
         {
@@ -244,7 +253,7 @@
           "description": "In this post, we will learn how to use Prisma, an ORM for JavaScript and TypeScript, in a Next.js app.",
           "link": "https://daily.dev/blog/nextjs-with-prisma",
           "publishedOn": "2021-06-07T12:30:00.000Z",
-          "wordCount": 4346,
+          "wordCount": 4326,
           "title": "How to use Prisma in a Next.js app"
         },
         {
@@ -253,7 +262,7 @@
           "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
           "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
           "publishedOn": "2021-06-03T12:00:00.000Z",
-          "wordCount": 2332,
+          "wordCount": 2312,
           "title": "Master code splitting with dynamic imports in Next.js"
         },
         {
@@ -262,7 +271,7 @@
           "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
           "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
           "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 645,
+          "wordCount": 625,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         },
         {
@@ -271,17 +280,8 @@
           "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
           "link": "https://daily.dev/blog/caching-in-graphql",
           "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3740,
+          "wordCount": 3720,
           "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
-        },
-        {
-          "id": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
-          "author": null,
-          "description": "gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.",
-          "link": "https://daily.dev/blog/build-a-grpc-service-in-nodejs",
-          "publishedOn": "2021-05-31T12:00:00.000Z",
-          "wordCount": 3639,
-          "title": "gRPC service in Node.js: Tutorial, Examples and Best practices"
         }
       ]
     }

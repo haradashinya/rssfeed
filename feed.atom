@@ -1,20 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T00:40:17.847Z</id>
+    <id>urn:2021-06-30T00:44:38.125Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:40:17.847Z</updated>
+    <updated>2021-06-30T00:44:38.125Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
+        <id>https://css-tricks.com/?p=343470</id>
+        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
+        <updated>2021-06-29T22:43:50.000Z</updated>
+        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
+html {
+  font: 110%/1.4 system-ui;
+}
+…
+The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
+        <id>https://css-tricks.com/?p=343260</id>
+        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
+        <updated>2021-06-29T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
+The squiggly lines that indicate possible spelling or grammar errors 
+…
+The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
+        <id>https://css-tricks.com/?p=342736</id>
+        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
+        <updated>2021-06-29T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
+The answer, it …
+The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different State Management Patterns for VueJS]]></title>
+        <id>https://daily.dev/blog/different-state-management-patterns-for-vuejs</id>
+        <link href="https://daily.dev/blog/different-state-management-patterns-for-vuejs"/>
+        <updated>2021-06-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[State management is at the core of any frontend framework. There are several options when it comes to VueJS. This article will explore these patterns helping developers to choose the right one depending on the use case.]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System *Things]]></title>
         <id>https://css-tricks.com/?p=343040</id>
         <link href="https://css-tricks.com/system-things/"/>
         <updated>2021-06-28T22:14:22.000Z</updated>
-        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
+        <summary type="html"><![CDATA[I think we’re all largely aware of colors like this:
 color: OldLace;
 background: rebeccapurple;
 I guess you’d just call those “named colors” in CSS. 
-Those aren’t the only kind of named colors there are though. Some of them …
+Those aren’t the only kind of named colors there are though. Some of them are …
 The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
@@ -179,39 +229,6 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
-        <id>https://css-tricks.com/?p=342925</id>
-        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
-        <updated>2021-06-22T14:33:41.000Z</updated>
-        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
-The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
-        <id>https://css-tricks.com/?p=342887</id>
-        <link href="https://web.dev/new-responsive/"/>
-        <updated>2021-06-21T21:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
-The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
-        <id>https://css-tricks.com/?p=342448</id>
-        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
-        <updated>2021-06-21T14:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
-The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184]]></title>
         <id>https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184</id>
         <link href="https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184"/>
@@ -307,16 +324,6 @@ The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appe
         <link href="https://daily.dev/blog/caching-in-graphql"/>
         <updated>2021-06-01T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gRPC service in Node.js: Tutorial, Examples and Best practices]]></title>
-        <id>https://daily.dev/blog/build-a-grpc-service-in-nodejs</id>
-        <link href="https://daily.dev/blog/build-a-grpc-service-in-nodejs"/>
-        <updated>2021-05-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[gRPC is a new technology here for building APIs to achieve high load time and fast network latency. In this article, we will demonstrate how to build a gRPC-powered API in Nodejs. First, let's learn what gRPC is.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
