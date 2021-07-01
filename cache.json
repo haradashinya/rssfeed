@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343224",
+          "author": "Chris Coyier",
+          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
+          "publishedOn": "2021-06-30T20:36:52.000Z",
+          "wordCount": 645,
+          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343064",
+          "author": "Travis Almand",
+          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
+          "publishedOn": "2021-06-30T14:45:42.000Z",
+          "wordCount": 4397,
+          "title": "When a Click is Not Just a Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343182",
+          "author": "Chris Coyier",
+          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
+          "publishedOn": "2021-06-30T14:44:54.000Z",
+          "wordCount": 675,
+          "title": "Fixing a Bug in Low-Resolution Mode"
+        },
+        {
           "id": "https://css-tricks.com/?p=343470",
           "author": "Chris Coyier",
           "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -29,7 +56,7 @@
           "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
           "publishedOn": "2021-06-29T14:37:21.000Z",
-          "wordCount": 747,
+          "wordCount": 773,
           "title": ":nth-child Between Two Fixed Indexes"
         },
         {
@@ -106,7 +133,7 @@
           "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/",
           "publishedOn": "2021-06-23T21:37:14.000Z",
-          "wordCount": 1540,
+          "wordCount": 1632,
           "title": "TablesNG — Improvements to table rendering in Chromium"
         },
         {
@@ -117,38 +144,6 @@
           "publishedOn": "2021-06-23T19:10:54.000Z",
           "wordCount": 1275,
           "title": "Using Performant Next-Gen Images in CSS with image-set"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342669",
-          "author": "Chris Coyier",
-          "description": "PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …\nThe post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/weak-declaration/",
-          "publishedOn": "2021-06-23T14:27:14.000Z",
-          "wordCount": 760,
-          "title": "“Weak declaration”",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2021/06/CleanShot-2021-06-16-at-07.31.32.mp4",
-            "length": "4189357",
-            "type": "video/mp4"
-          }
-        },
-        {
-          "id": "https://css-tricks.com/?p=342930",
-          "author": "Chris Coyier",
-          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
-          "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 799,
-          "title": "inherit, initial, unset, revert"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342634",
-          "author": "Geoff Rich",
-          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
-          "publishedOn": "2021-06-22T14:37:50.000Z",
-          "wordCount": 3090,
-          "title": "Using Custom Elements in Svelte"
         }
       ]
     },
@@ -157,6 +152,15 @@
       "feedUrl": "https://daily.dev/blog/rss.xml",
       "siteUrl": "https://daily.dev",
       "articles": [
+        {
+          "id": "https://daily.dev/blog/vite-react-the-art-of-comments-top-5-git-tips-picks-186",
+          "author": null,
+          "description": "Learn to use Vite + React, useful git tricks, how to write better comments, and more",
+          "link": "https://daily.dev/blog/vite-react-the-art-of-comments-top-5-git-tips-picks-186",
+          "publishedOn": "2021-06-30T12:30:00.000Z",
+          "wordCount": 620,
+          "title": "Vite + React, The Art of Comments, Top 5 Git Tips - Picks 186"
+        },
         {
           "id": "https://daily.dev/blog/different-state-management-patterns-for-vuejs",
           "author": null,
@@ -273,15 +277,6 @@
           "publishedOn": "2021-06-02T12:30:00.000Z",
           "wordCount": 625,
           "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
-        },
-        {
-          "id": "https://daily.dev/blog/caching-in-graphql",
-          "author": null,
-          "description": "Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.",
-          "link": "https://daily.dev/blog/caching-in-graphql",
-          "publishedOn": "2021-06-01T12:00:00.000Z",
-          "wordCount": 3720,
-          "title": "Caching in GraphQL: How to prevent excessive and unnecessary requests"
         }
       ]
     }

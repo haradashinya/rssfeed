@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-30T00:44:38.125Z</id>
+    <id>urn:2021-07-01T00:43:30.575Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-30T00:44:38.125Z</updated>
+    <updated>2021-07-01T00:43:30.575Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?]]></title>
+        <id>https://css-tricks.com/?p=343224</id>
+        <link href="https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/"/>
+        <updated>2021-06-30T20:36:52.000Z</updated>
+        <summary type="html"><![CDATA[I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …
+The post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Click is Not Just a Click]]></title>
+        <id>https://css-tricks.com/?p=343064</id>
+        <link href="https://css-tricks.com/when-a-click-is-not-just-a-click/"/>
+        <updated>2021-06-30T14:45:42.000Z</updated>
+        <summary type="html"><![CDATA[The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…
+The post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Travis Almand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing a Bug in Low-Resolution Mode]]></title>
+        <id>https://css-tricks.com/?p=343182</id>
+        <link href="https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/"/>
+        <updated>2021-06-30T14:44:54.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …
+The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite + React, The Art of Comments, Top 5 Git Tips - Picks 186]]></title>
+        <id>https://daily.dev/blog/vite-react-the-art-of-comments-top-5-git-tips-picks-186</id>
+        <link href="https://daily.dev/blog/vite-react-the-art-of-comments-top-5-git-tips-picks-186"/>
+        <updated>2021-06-30T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn to use Vite + React, useful git tricks, how to write better comments, and more]]></summary>
+        <author>
+            <name>daily.dev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
         <id>https://css-tricks.com/?p=343470</id>
@@ -186,17 +229,6 @@ The post Using Performant Next-Gen Images in CSS with image-set appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Weak declaration”]]></title>
-        <id>https://css-tricks.com/?p=342669</id>
-        <link href="https://css-tricks.com/weak-declaration/"/>
-        <updated>2021-06-23T14:27:14.000Z</updated>
-        <summary type="html"><![CDATA[PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …
-The post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React 18, Next.js 11, DDD, face-api - Picks 185]]></title>
         <id>https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185</id>
         <link href="https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185"/>
@@ -204,28 +236,6 @@ The post “Weak declaration” appeared first on CSS-Tricks. You can support CS
         <summary type="html"><![CDATA[In case you slept through this week and didn't hear about all the goodies here's a recap of everything that happened]]></summary>
         <author>
             <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
-        <id>https://css-tricks.com/?p=342930</id>
-        <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
-        <updated>2021-06-22T21:20:20.000Z</updated>
-        <summary type="html"><![CDATA[There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …
-The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Custom Elements in Svelte]]></title>
-        <id>https://css-tricks.com/?p=342634</id>
-        <link href="https://css-tricks.com/using-custom-elements-in-svelte/"/>
-        <updated>2021-06-22T14:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …
-The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Rich</name>
         </author>
     </entry>
     <entry>
@@ -314,16 +324,6 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
         <link href="https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182"/>
         <updated>2021-06-02T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks]]></summary>
-        <author>
-            <name>daily.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caching in GraphQL: How to prevent excessive and unnecessary requests]]></title>
-        <id>https://daily.dev/blog/caching-in-graphql</id>
-        <link href="https://daily.dev/blog/caching-in-graphql"/>
-        <updated>2021-06-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how caching can be used to cache GraphQL requests to prevent excessive and unnecessary requests.]]></summary>
         <author>
             <name>daily.dev</name>
         </author>
