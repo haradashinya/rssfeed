@@ -6,12 +6,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342994",
+          "author": "Chris Coyier",
+          "description": "This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.\nThe setup is that you can use WooCommerce to sell things on a WordPress …\nThe post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/",
+          "publishedOn": "2021-07-02T00:02:51.000Z",
+          "wordCount": 1151,
+          "title": "The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes."
+        },
+        {
+          "id": "https://css-tricks.com/?p=343637",
+          "author": "Chris Coyier",
+          "description": "The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …\nThe post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/css-web-vitals/",
+          "publishedOn": "2021-07-01T18:54:45.000Z",
+          "wordCount": 1639,
+          "title": "CSS for Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342591",
+          "author": "Chris Coyier",
+          "description": "This is new stuff from DO.\nApp Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …\nThe post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/app-platform-on-digital-ocean/",
+          "publishedOn": "2021-07-01T18:54:12.000Z",
+          "wordCount": 953,
+          "title": "App Platform on Digital Ocean"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343092",
+          "author": "Cassidy Williams",
+          "description": "If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.\n\nClicking the button above lets me (or you!) instantly …\nThe post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
+          "publishedOn": "2021-07-01T14:40:14.000Z",
+          "wordCount": 1576,
+          "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
+        },
+        {
           "id": "https://css-tricks.com/?p=343224",
           "author": "Chris Coyier",
           "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
           "publishedOn": "2021-06-30T20:36:52.000Z",
-          "wordCount": 645,
+          "wordCount": 822,
           "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
         },
         {
@@ -20,7 +56,7 @@
           "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
           "publishedOn": "2021-06-30T14:45:42.000Z",
-          "wordCount": 4397,
+          "wordCount": 4393,
           "title": "When a Click is Not Just a Click"
         },
         {
@@ -29,7 +65,7 @@
           "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
           "publishedOn": "2021-06-30T14:44:54.000Z",
-          "wordCount": 675,
+          "wordCount": 1103,
           "title": "Fixing a Bug in Low-Resolution Mode"
         },
         {
@@ -38,7 +74,7 @@
           "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
           "publishedOn": "2021-06-29T22:43:50.000Z",
-          "wordCount": 672,
+          "wordCount": 861,
           "title": "What does `font: 110%/1.4 system-ui` mean?"
         },
         {
@@ -56,7 +92,7 @@
           "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
           "publishedOn": "2021-06-29T14:37:21.000Z",
-          "wordCount": 773,
+          "wordCount": 769,
           "title": ":nth-child Between Two Fixed Indexes"
         },
         {
@@ -65,7 +101,7 @@
           "description": "I think we’re all largely aware of colors like this:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them are …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/system-things/",
           "publishedOn": "2021-06-28T22:14:22.000Z",
-          "wordCount": 1225,
+          "wordCount": 1221,
           "title": "System *Things"
         },
         {
@@ -83,7 +119,7 @@
           "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
           "publishedOn": "2021-06-28T14:25:33.000Z",
-          "wordCount": 2356,
+          "wordCount": 2366,
           "title": "Positioning Overlay Content with CSS Grid"
         },
         {
@@ -101,49 +137,8 @@
           "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/custom-property-brain-twisters/",
           "publishedOn": "2021-06-25T18:39:46.000Z",
-          "wordCount": 652,
+          "wordCount": 648,
           "title": "Custom Property Brain Twisters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342911",
-          "author": "Georgi Nikoloff",
-          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
-          "publishedOn": "2021-06-25T14:33:33.000Z",
-          "wordCount": 1103,
-          "title": "How to Cancel Pending API Requests to Show Correct Data",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2021/06/steam-api-deals.png,src:https://css-tricks.com/wp-content/uploads/2021/06/pending-networks-problem.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          }
-        },
-        {
-          "id": "https://css-tricks.com/?p=342818",
-          "author": "Jay Hoffmann",
-          "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-9-community/",
-          "publishedOn": "2021-06-24T14:30:11.000Z",
-          "wordCount": 6342,
-          "title": "Chapter 9: Community"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343076",
-          "author": "Chris Coyier",
-          "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/",
-          "publishedOn": "2021-06-23T21:37:14.000Z",
-          "wordCount": 1632,
-          "title": "TablesNG — Improvements to table rendering in Chromium"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342750",
-          "author": "Ollie Williams",
-          "description": "The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…\nThe post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/",
-          "publishedOn": "2021-06-23T19:10:54.000Z",
-          "wordCount": 1275,
-          "title": "Using Performant Next-Gen Images in CSS with image-set"
         }
       ]
     },
@@ -153,12 +148,21 @@
       "siteUrl": "https://daily.dev",
       "articles": [
         {
+          "id": "https://daily.dev/blog/using-vue-3s-router-in-practice",
+          "author": null,
+          "description": "Vue Router is one of the best highlights in the Vue ecosystem. This article covers some standout features of Vue Router like programmatic navigation, navigation guards, data fetching, and nested routes with examples of how to use them in a Vue 3 project. It also covers the best practices and the main differences if you are moving from Vue2.",
+          "link": "https://daily.dev/blog/using-vue-3s-router-in-practice",
+          "publishedOn": "2021-07-01T12:00:00.000Z",
+          "wordCount": 2406,
+          "title": "Using Vue 3's Router in Practice"
+        },
+        {
           "id": "https://daily.dev/blog/vite-react-the-art-of-comments-top-5-git-tips-picks-186",
           "author": null,
           "description": "Learn to use Vite + React, useful git tricks, how to write better comments, and more",
           "link": "https://daily.dev/blog/vite-react-the-art-of-comments-top-5-git-tips-picks-186",
           "publishedOn": "2021-06-30T12:30:00.000Z",
-          "wordCount": 620,
+          "wordCount": 660,
           "title": "Vite + React, The Art of Comments, Top 5 Git Tips - Picks 186"
         },
         {
@@ -167,7 +171,7 @@
           "description": "State management is at the core of any frontend framework. There are several options when it comes to VueJS. This article will explore these patterns helping developers to choose the right one depending on the use case.",
           "link": "https://daily.dev/blog/different-state-management-patterns-for-vuejs",
           "publishedOn": "2021-06-29T12:00:00.000Z",
-          "wordCount": 1549,
+          "wordCount": 1552,
           "title": "Different State Management Patterns for VueJS"
         },
         {
@@ -176,7 +180,7 @@
           "description": "Composition API is a brand new code structure for writing Vue components to improve code reuse and readability.",
           "link": "https://daily.dev/blog/whats-new-with-the-composition-api-in-vuejs",
           "publishedOn": "2021-06-28T12:00:00.000Z",
-          "wordCount": 1316,
+          "wordCount": 1319,
           "title": "What's New with the Composition API in VueJS"
         },
         {
@@ -185,7 +189,7 @@
           "description": "We'll talk about how to create your own React app from scratch. No CRA needed leveraging the power of a faster, better build tool called Snowpack.",
           "link": "https://daily.dev/blog/untangle-your-web-development-with-snowpack",
           "publishedOn": "2021-06-24T16:00:00.000Z",
-          "wordCount": 1987,
+          "wordCount": 1990,
           "title": "Untangle your web development with Snowpack"
         },
         {
@@ -194,7 +198,7 @@
           "description": "In case you slept through this week and didn't hear about all the goodies here's a recap of everything that happened",
           "link": "https://daily.dev/blog/react-18-next-js-11-ddd-face-api-picks-185",
           "publishedOn": "2021-06-23T12:30:00.000Z",
-          "wordCount": 629,
+          "wordCount": 669,
           "title": "React 18, Next.js 11, DDD, face-api - Picks 185"
         },
         {
@@ -203,7 +207,7 @@
           "description": "React 18 is in the plans, a 0-day bug was found in Chrome, 20 developer memes that will make you laugh, and more!",
           "link": "https://daily.dev/blog/react-18-chrome-0-day-bug-redux-alternatives-picks-184",
           "publishedOn": "2021-06-16T12:30:00.000Z",
-          "wordCount": 578,
+          "wordCount": 618,
           "title": "React 18, Chrome 0-Day Bug, Redux Alternatives - Picks 184"
         },
         {
@@ -212,7 +216,7 @@
           "description": "In this article, we will be looking at how to build our first telegram bot with Fastify. This bot will be able to crack random jokes through the telegram bot API. We will be using the official Joke API created by David Katz to get our jokes. This is a simple API that returns a random joke.",
           "link": "https://daily.dev/blog/fastify-telegram-bot",
           "publishedOn": "2021-06-15T12:30:00.000Z",
-          "wordCount": 1447,
+          "wordCount": 1487,
           "title": "Building a Telegram Bot with Fastify"
         },
         {
@@ -221,7 +225,7 @@
           "description": "In this article, you will get to know what are components in a Tailwind file, how to use them to maximize the developer productivity in your project, and how to extract them to a separate file. Then, we will create our components with the power of React’s nature in our plant’s demo. Finally, we will learn all about production tips and took an exclusive dive into the Tailwind configuration file. Then we make our demo project production-ready!",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-extracting-components-and-setting-up-for-production-part-4-of-4",
           "publishedOn": "2021-06-14T12:30:00.000Z",
-          "wordCount": 3930,
+          "wordCount": 3970,
           "title": "Tailwind CSS from Zero to Hero - Extracting Components and Setting up for Production"
         },
         {
@@ -230,7 +234,7 @@
           "description": "Language shouldn't be your barrier in getting to a billion users, so that's why I will demonstrate here how you can build a Next.js app to adapt to various languages. Read on.",
           "link": "https://daily.dev/blog/internationalization-i18n-in-nextjs",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 2592,
+          "wordCount": 2632,
           "title": "How to implement i18n in Next.js 🌏"
         },
         {
@@ -239,7 +243,7 @@
           "description": "In this article, you will get to know a lot. Starting from installing Tailwind for your project, adding cool hover, focus, and other interactions, to getting to know how responsive elements work in a Tailwind project, converting a non-responsive section to be mobile responsive.",
           "link": "https://daily.dev/blog/tailwind-css-from-zero-to-hero-responsiveness-and-custom-utilities-part-3-of-4",
           "publishedOn": "2021-06-10T12:30:00.000Z",
-          "wordCount": 3006,
+          "wordCount": 3046,
           "title": "Tailwind CSS from Zero to Hero - Responsiveness and Custom Utilities"
         },
         {
@@ -248,7 +252,7 @@
           "description": "Learn JavaScript async execution, a new Next.js course it out, improve performance with CSS and more",
           "link": "https://daily.dev/blog/back-end-guide-next-js-free-course-css-for-web-vitals-picks-183",
           "publishedOn": "2021-06-09T12:30:00.000Z",
-          "wordCount": 642,
+          "wordCount": 682,
           "title": "Back-end Guide, Next.js Free Course, CSS for Web Vitals - Picks 183"
         },
         {
@@ -257,7 +261,7 @@
           "description": "In this post, we will learn how to use Prisma, an ORM for JavaScript and TypeScript, in a Next.js app.",
           "link": "https://daily.dev/blog/nextjs-with-prisma",
           "publishedOn": "2021-06-07T12:30:00.000Z",
-          "wordCount": 4326,
+          "wordCount": 4366,
           "title": "How to use Prisma in a Next.js app"
         },
         {
@@ -266,17 +270,8 @@
           "description": "Using code splitting and smart loading strategies, you can speed up your Next.js application. Let's learn how to get it done.",
           "link": "https://daily.dev/blog/code-splitting-with-dynamic-imports-in-nextjs",
           "publishedOn": "2021-06-03T12:00:00.000Z",
-          "wordCount": 2312,
+          "wordCount": 2352,
           "title": "Master code splitting with dynamic imports in Next.js"
-        },
-        {
-          "id": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
-          "author": null,
-          "description": "Web3, architecture docs, game development, and more are all covered in the new issue of our weekly picks",
-          "link": "https://daily.dev/blog/document-your-architecture-distortion-effect-web3-projen-picks-182",
-          "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 625,
-          "title": "Document Your Architecture, Distortion Effect, Web3, Projen - Picks 182"
         }
       ]
     }
